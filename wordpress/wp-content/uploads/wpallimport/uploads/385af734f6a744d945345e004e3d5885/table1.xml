@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<jurisdiction><![CDATA[Australian Capital Territory]]></jurisdiction>
+		<firearea000hectares><![CDATA[90]]></firearea000hectares>
+		<forestareainfirearea000hectares><![CDATA[83]]></forestareainfirearea000hectares>
+		<proportionoffireareathatisforested><![CDATA[93]]></proportionoffireareathatisforested>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[New South Wales]]></jurisdiction>
+		<firearea000hectares><![CDATA[5,681]]></firearea000hectares>
+		<forestareainfirearea000hectares><![CDATA[5,122]]></forestareainfirearea000hectares>
+		<proportionoffireareathatisforested><![CDATA[90]]></proportionoffireareathatisforested>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Northern Territory]]></jurisdiction>
+		<firearea000hectares><![CDATA[0]]></firearea000hectares>
+		<forestareainfirearea000hectares><![CDATA[0]]></forestareainfirearea000hectares>
+		<proportionoffireareathatisforested><![CDATA[0]]></proportionoffireareathatisforested>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Queensland]]></jurisdiction>
+		<firearea000hectares><![CDATA[419]]></firearea000hectares>
+		<forestareainfirearea000hectares><![CDATA[370]]></forestareainfirearea000hectares>
+		<proportionoffireareathatisforested><![CDATA[88]]></proportionoffireareathatisforested>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[South Australia]]></jurisdiction>
+		<firearea000hectares><![CDATA[313]]></firearea000hectares>
+		<forestareainfirearea000hectares><![CDATA[137]]></forestareainfirearea000hectares>
+		<proportionoffireareathatisforested><![CDATA[44]]></proportionoffireareathatisforested>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Tasmania]]></jurisdiction>
+		<firearea000hectares><![CDATA[42]]></firearea000hectares>
+		<forestareainfirearea000hectares><![CDATA[29]]></forestareainfirearea000hectares>
+		<proportionoffireareathatisforested><![CDATA[70]]></proportionoffireareathatisforested>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Victoria]]></jurisdiction>
+		<firearea000hectares><![CDATA[1,583]]></firearea000hectares>
+		<forestareainfirearea000hectares><![CDATA[1,457]]></forestareainfirearea000hectares>
+		<proportionoffireareathatisforested><![CDATA[92]]></proportionoffireareathatisforested>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Western Australia]]></jurisdiction>
+		<firearea000hectares><![CDATA[2,044]]></firearea000hectares>
+		<forestareainfirearea000hectares><![CDATA[1,143]]></forestareainfirearea000hectares>
+		<proportionoffireareathatisforested><![CDATA[56]]></proportionoffireareathatisforested>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Total]]></jurisdiction>
+		<firearea000hectares><![CDATA[10,173]]></firearea000hectares>
+		<forestareainfirearea000hectares><![CDATA[8,341]]></forestareainfirearea000hectares>
+		<proportionoffireareathatisforested><![CDATA[82]]></proportionoffireareathatisforested>
+	</node>
+</data>

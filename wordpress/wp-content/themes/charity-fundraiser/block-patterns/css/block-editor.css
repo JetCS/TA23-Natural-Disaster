@@ -1,0 +1,73 @@
+/*font family*/
+.main-banner-section h1 ,.main-banner-section p,.main-banner-section a,
+ .main-service-section h2,.main-service-section h3,.service-section-col h4,
+ .service-section-col p{
+ 	font-family: 'Montserrat', sans-serif !important;
+ }	
+ /*banner section*/
+.main-banner-section h1{
+	font-weight: 700;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 10px 0;
+    line-height: 1.2;
+}
+.main-banner-section p{
+	line-height: 2;
+}
+.main-banner-section .wp-block-button__link {
+	padding: 15px 25px;
+    font-weight: 600;
+    display: inline-block;
+    text-decoration: none !important;
+    letter-spacing: 1px;
+}
+.main-banner-section .wp-block-button__link:hover{
+	background: #091b27;
+}
+/*service section*/
+.main-service-section h2{
+	color: #091b27;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 0.25rem !important;
+    margin: 0;
+    padding: 10px 0;
+}
+.main-service-section h3{
+	color: #091b27;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin: 0;
+    padding-bottom: 4%;
+    position: relative;
+}
+.service-section-col h4{
+    font-weight: 600;
+    padding-top: 0 !important;
+    margin: 0;
+    padding: 10px 0;
+}
+.service-section-col h4:before{
+	content: '';
+	border-top: solid 3px #288200;
+    width: 10%;
+}
+.service-section-col p{
+	color: #091b27;
+    font-size: 14px;
+    line-height: 2;
+    font-weight: 500;
+    margin: 0;
+}
+.service-section-col .wp-block-columns{
+	gap: 1em !important;
+}
+.service-section-col h3:before{
+	content: '';
+	border: solid 1px #288200;
+    width: 10%;
+	position: absolute;
+	bottom: 0;
+}

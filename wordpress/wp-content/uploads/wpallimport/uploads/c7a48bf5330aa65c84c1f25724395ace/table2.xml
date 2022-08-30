@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<jurisdiction><![CDATA[]]></jurisdiction>
+		<totalforestareabyforestcategory000hectares><![CDATA[Native 
+forest]]></totalforestareabyforestcategory000hectares>
+		<undefined2><![CDATA[Commercial 
+plantation]]></undefined2>
+		<undefined3><![CDATA[Other 
+forest]]></undefined3>
+		<undefined4><![CDATA[Total 
+forest]]></undefined4>
+		<totalareaburntbyforestcategory000hectares><![CDATA[Native 
+forest]]></totalareaburntbyforestcategory000hectares>
+		<undefined6><![CDATA[Commercial plantation]]></undefined6>
+		<undefined7><![CDATA[Other 
+forest]]></undefined7>
+		<undefined8><![CDATA[Total 
+forest]]></undefined8>
+		<proportionoftotalforestareaburntbyforestcategory><![CDATA[Native 
+forest]]></proportionoftotalforestareaburntbyforestcategory>
+		<undefined10><![CDATA[Commercial plantation]]></undefined10>
+		<undefined11><![CDATA[Other 
+forest]]></undefined11>
+		<undefined12><![CDATA[Total 
+forest]]></undefined12>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Australian Capital Territory]]></jurisdiction>
+		<totalforestareabyforestcategory000hectares><![CDATA[130]]></totalforestareabyforestcategory000hectares>
+		<undefined2><![CDATA[7]]></undefined2>
+		<undefined3><![CDATA[5]]></undefined3>
+		<undefined4><![CDATA[142]]></undefined4>
+		<totalareaburntbyforestcategory000hectares><![CDATA[83]]></totalareaburntbyforestcategory000hectares>
+		<undefined6><![CDATA[0]]></undefined6>
+		<undefined7><![CDATA[0]]></undefined7>
+		<undefined8><![CDATA[83]]></undefined8>
+		<proportionoftotalforestareaburntbyforestcategory><![CDATA[64]]></proportionoftotalforestareaburntbyforestcategory>
+		<undefined10><![CDATA[0.2]]></undefined10>
+		<undefined11><![CDATA[2.7]]></undefined11>
+		<undefined12><![CDATA[58]]></undefined12>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[New South Wales]]></jurisdiction>
+		<totalforestareabyforestcategory000hectares><![CDATA[19,925]]></totalforestareabyforestcategory000hectares>
+		<undefined2><![CDATA[380]]></undefined2>
+		<undefined3><![CDATA[62]]></undefined3>
+		<undefined4><![CDATA[20,368]]></undefined4>
+		<totalareaburntbyforestcategory000hectares><![CDATA[5,014]]></totalareaburntbyforestcategory000hectares>
+		<undefined6><![CDATA[92]]></undefined6>
+		<undefined7><![CDATA[16]]></undefined7>
+		<undefined8><![CDATA[5,122]]></undefined8>
+		<proportionoftotalforestareaburntbyforestcategory><![CDATA[25]]></proportionoftotalforestareaburntbyforestcategory>
+		<undefined10><![CDATA[24]]></undefined10>
+		<undefined11><![CDATA[26]]></undefined11>
+		<undefined12><![CDATA[25]]></undefined12>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Northern Territory]]></jurisdiction>
+		<totalforestareabyforestcategory000hectares><![CDATA[23,686]]></totalforestareabyforestcategory000hectares>
+		<undefined2><![CDATA[45]]></undefined2>
+		<undefined3><![CDATA[4]]></undefined3>
+		<undefined4><![CDATA[23,735]]></undefined4>
+		<totalareaburntbyforestcategory000hectares><![CDATA[0]]></totalareaburntbyforestcategory000hectares>
+		<undefined6><![CDATA[0]]></undefined6>
+		<undefined7><![CDATA[0]]></undefined7>
+		<undefined8><![CDATA[0]]></undefined8>
+		<proportionoftotalforestareaburntbyforestcategory><![CDATA[0.0]]></proportionoftotalforestareaburntbyforestcategory>
+		<undefined10><![CDATA[0.0]]></undefined10>
+		<undefined11><![CDATA[0.0]]></undefined11>
+		<undefined12><![CDATA[0.0]]></undefined12>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Queensland]]></jurisdiction>
+		<totalforestareabyforestcategory000hectares><![CDATA[51,580]]></totalforestareabyforestcategory000hectares>
+		<undefined2><![CDATA[229]]></undefined2>
+		<undefined3><![CDATA[21]]></undefined3>
+		<undefined4><![CDATA[51,830]]></undefined4>
+		<totalareaburntbyforestcategory000hectares><![CDATA[367]]></totalareaburntbyforestcategory000hectares>
+		<undefined6><![CDATA[3]]></undefined6>
+		<undefined7><![CDATA[0]]></undefined7>
+		<undefined8><![CDATA[370]]></undefined8>
+		<proportionoftotalforestareaburntbyforestcategory><![CDATA[0.7]]></proportionoftotalforestareaburntbyforestcategory>
+		<undefined10><![CDATA[1.5]]></undefined10>
+		<undefined11><![CDATA[1.0]]></undefined11>
+		<undefined12><![CDATA[0.7]]></undefined12>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[South Australia]]></jurisdiction>
+		<totalforestareabyforestcategory000hectares><![CDATA[4,856]]></totalforestareabyforestcategory000hectares>
+		<undefined2><![CDATA[178]]></undefined2>
+		<undefined3><![CDATA[25]]></undefined3>
+		<undefined4><![CDATA[5,060]]></undefined4>
+		<totalareaburntbyforestcategory000hectares><![CDATA[118]]></totalareaburntbyforestcategory000hectares>
+		<undefined6><![CDATA[17]]></undefined6>
+		<undefined7><![CDATA[2]]></undefined7>
+		<undefined8><![CDATA[137]]></undefined8>
+		<proportionoftotalforestareaburntbyforestcategory><![CDATA[2.4]]></proportionoftotalforestareaburntbyforestcategory>
+		<undefined10><![CDATA[10]]></undefined10>
+		<undefined11><![CDATA[7.9]]></undefined11>
+		<undefined12><![CDATA[2.7]]></undefined12>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Tasmania]]></jurisdiction>
+		<totalforestareabyforestcategory000hectares><![CDATA[3,342]]></totalforestareabyforestcategory000hectares>
+		<undefined2><![CDATA[311]]></undefined2>
+		<undefined3><![CDATA[46]]></undefined3>
+		<undefined4><![CDATA[3,699]]></undefined4>
+		<totalareaburntbyforestcategory000hectares><![CDATA[27]]></totalareaburntbyforestcategory000hectares>
+		<undefined6><![CDATA[3]]></undefined6>
+		<undefined7><![CDATA[0]]></undefined7>
+		<undefined8><![CDATA[29]]></undefined8>
+		<proportionoftotalforestareaburntbyforestcategory><![CDATA[0.8]]></proportionoftotalforestareaburntbyforestcategory>
+		<undefined10><![CDATA[0.8]]></undefined10>
+		<undefined11><![CDATA[0.4]]></undefined11>
+		<undefined12><![CDATA[0.8]]></undefined12>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Victoria]]></jurisdiction>
+		<totalforestareabyforestcategory000hectares><![CDATA[7,645]]></totalforestareabyforestcategory000hectares>
+		<undefined2><![CDATA[415]]></undefined2>
+		<undefined3><![CDATA[162]]></undefined3>
+		<undefined4><![CDATA[8,222]]></undefined4>
+		<totalareaburntbyforestcategory000hectares><![CDATA[1,444]]></totalareaburntbyforestcategory000hectares>
+		<undefined6><![CDATA[10]]></undefined6>
+		<undefined7><![CDATA[3]]></undefined7>
+		<undefined8><![CDATA[1,457]]></undefined8>
+		<proportionoftotalforestareaburntbyforestcategory><![CDATA[19]]></proportionoftotalforestareaburntbyforestcategory>
+		<undefined10><![CDATA[2.4]]></undefined10>
+		<undefined11><![CDATA[2.0]]></undefined11>
+		<undefined12><![CDATA[18]]></undefined12>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Western Australia]]></jurisdiction>
+		<totalforestareabyforestcategory000hectares><![CDATA[20,450]]></totalforestareabyforestcategory000hectares>
+		<undefined2><![CDATA[383]]></undefined2>
+		<undefined3><![CDATA[148]]></undefined3>
+		<undefined4><![CDATA[20,981]]></undefined4>
+		<totalareaburntbyforestcategory000hectares><![CDATA[1,138]]></totalareaburntbyforestcategory000hectares>
+		<undefined6><![CDATA[4]]></undefined6>
+		<undefined7><![CDATA[0]]></undefined7>
+		<undefined8><![CDATA[1,143]]></undefined8>
+		<proportionoftotalforestareaburntbyforestcategory><![CDATA[5.6]]></proportionoftotalforestareaburntbyforestcategory>
+		<undefined10><![CDATA[1.2]]></undefined10>
+		<undefined11><![CDATA[0.2]]></undefined11>
+		<undefined12><![CDATA[5.4]]></undefined12>
+	</node>
+	<node>
+		<jurisdiction><![CDATA[Total]]></jurisdiction>
+		<totalforestareabyforestcategory000hectares><![CDATA[131,615]]></totalforestareabyforestcategory000hectares>
+		<undefined2><![CDATA[1,949]]></undefined2>
+		<undefined3><![CDATA[474]]></undefined3>
+		<undefined4><![CDATA[134,037]]></undefined4>
+		<totalareaburntbyforestcategory000hectares><![CDATA[8,190]]></totalareaburntbyforestcategory000hectares>
+		<undefined6><![CDATA[129]]></undefined6>
+		<undefined7><![CDATA[22]]></undefined7>
+		<undefined8><![CDATA[8,341]]></undefined8>
+		<proportionoftotalforestareaburntbyforestcategory><![CDATA[6.2]]></proportionoftotalforestareaburntbyforestcategory>
+		<undefined10><![CDATA[6.6]]></undefined10>
+		<undefined11><![CDATA[4.6]]></undefined11>
+		<undefined12><![CDATA[6.2]]></undefined12>
+	</node>
+</data>

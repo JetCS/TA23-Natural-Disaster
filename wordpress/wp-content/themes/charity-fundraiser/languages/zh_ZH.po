@@ -1,0 +1,1162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Charity Fundraiser\n"
+"POT-Creation-Date: 2016-02-11 19:00+0530\n"
+"PO-Revision-Date: 2021-10-29 19:41+0530\n"
+"Language-Team: Themeglance <support@themesglance.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+#: 404.php:12
+msgid "404 Not Found"
+msgstr "找不到404"
+
+#: 404.php:16 no-results.php:21
+msgid "Return to the home page"
+msgstr "返回主页"
+
+#: comments.php:19
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "一种关于“％s”的想法"
+
+#: comments.php:28
+msgid "comments title"
+msgstr "评论标题"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: comments.php:66 inc/customizer.php:1452 customizer.php:1473
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: comments.php:67 inc/customizer.php:1462 customizer.php:1483
+msgid "Post Comment"
+msgstr "发表评论"
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: no-results.php:14
+msgid "Ready to publish your first post? Get started here."
+msgstr "准备发布您的第一篇文章吗？从这里开始。"
+
+#: no-results.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有符合您搜索条件的内容。请使用其他不同的关键字再试一次。"
+
+#: no-results.php:19
+msgid "Dont worry it happens to the best of us."
+msgstr "不要担心，这对我们最好的人来说会发生。"
+
+#: footer.php:10 footer.php:12 footer.php:14 customizer.php:664
+#: customizer.php:713 customizer.php:1332 customizer.php:1572
+#: customizer.php:1943 customizer.php:2025 customizer.php:2135
+#: customizer.php:2283
+msgid "Top"
+msgstr "顶部"
+
+#: footer.php:10 footer.php:12 footer.php:14
+msgid "Back to Top"
+msgstr "返回顶部"
+
+#: footer.php:59
+msgid "By Themesglance"
+msgstr "按主题浏览"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:85
+msgid "Greetings from Themesglance!!"
+msgstr "来自 Themesglance 的问候！！"
+
+#: functions.php:86
+msgid ""
+"A heartful thank you for choosing Themesglance. We promise to deliver only "
+"the best to you. Please proceed towards welcome section to get started."
+msgstr ""
+"衷心感谢您选择 Themesglance。我们承诺只为您提供最好的。请前往欢迎部分开始。"
+
+#: functions.php:87
+msgid "About Theme"
+msgstr "关于主题"
+
+#: functions.php:94
+msgid "Blog Sidebar"
+msgstr "博客侧栏"
+
+#: functions.php:95
+msgid "Appears on blog page sidebar"
+msgstr "出现在博客页面侧栏上"
+
+#: functions.php:104
+msgid "Page Sidebar"
+msgstr "页面侧栏"
+
+#: functions.php:105 functions.php:115
+msgid "Appears on page sidebar"
+msgstr "出现在页面侧栏上"
+
+#: functions.php:114
+msgid "Third Column Sidebar"
+msgstr "第三栏侧栏"
+
+#: functions.php:126
+msgid "Footer "
+msgstr "页脚"
+
+#: functions.php:373
+msgid "Charity WordPress Theme"
+msgstr "慈善 WordPress 主题"
+
+#: header.php:37
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: header.php:40 inc/customizer.php:1793 customizer.php:1814
+msgid "Menu"
+msgstr "菜单"
+
+#: header.php:43 header.php:155
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#: header.php:53 inc/customizer.php:1814 customizer.php:1835
+msgid "Close Menu"
+msgstr "关闭选单"
+
+#: header.php:98
+msgid "Email"
+msgstr "电子邮件"
+
+#: header.php:117
+msgid "Phone Number"
+msgstr "电话号码"
+
+#: header.php:127
+msgid "Facebook"
+msgstr "脸书"
+
+#: header.php:130
+msgid "Twitter"
+msgstr "推特"
+
+#: header.php:133
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: header.php:136
+msgid "Instagram"
+msgstr "Instagram的"
+
+#: header.php:139
+msgid "Linkedin"
+msgstr "领英"
+
+#: header.php:142
+msgid "Youtube"
+msgstr "YouTube"
+
+#: header.php:175
+msgid "Donate Button"
+msgstr "捐赠按钮"
+
+#: image.php:33 image.php:68 image.php:103 image.php:138 image.php:175
+#: image.php:212 image.php:248 page.php:29 page.php:69 page.php:108
+#: template-parts/single-post:42 page-template/page-with-left-sidebar.php:23
+#: page-template/page-with-right-sidebar.php:19
+msgid "Pages:"
+msgstr "页数："
+
+#: image.php:38 image.php:73 image.php:108 image.php:143 image.php:180
+#: image.php:217 image.php:253
+msgid "Edit"
+msgstr "编辑"
+
+#: page.php:33 page.php:73 page.php:112 template-parts/single-post:46
+#: page-template/page-with-left-sidebar.php:27
+#: page-template/page-with-right-sidebar.php:23
+msgid "page"
+msgstr "页"
+
+#: search.php:17 search.php:47 search.php:72 search.php:98 search.php:127
+#: search.php:156 search.php:187
+msgid "Search Results For: %s"
+msgstr "搜索结果：%s"
+
+#: searchform.php:9
+msgid "Search for:"
+msgstr "搜索："
+
+#: searchform.php:10 searchform.php:12 inc/customizer.php:683
+#: customizer.php:749
+msgid "Search"
+msgstr "搜索"
+
+#: searchform.php:12
+msgid "submit button"
+msgstr "提交按钮"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:16
+msgid "Meta"
+msgstr "元"
+
+#: template-parts/single-post:53
+msgid "Parent post link"
+msgstr "父帖子链接"
+
+#: template-parts/single-post:59 inc/customizer.php:1417
+#: page-template/custom-front-page.php:70 customizer.php:1438
+msgid "Next"
+msgstr "下一个"
+
+#: template-parts/single-post:60
+msgid "Next post:"
+msgstr "下一篇文章："
+
+#: template-parts/single-post:62 inc/customizer.php:1416
+#: page-template/custom-front-page.php:66 customizer.php:1427
+msgid "Previous"
+msgstr "以前的"
+
+#: template-parts/single-post:63
+msgid "Previous post:"
+msgstr "上一篇："
+
+#: template-parts/single-post:25 template-parts/content-audio.php:47
+#: template-parts/content-gallery.php:37 template-parts/content-image.php:32
+#: template-parts/content-video.php:48 template-parts/content.php:32
+msgid "0 Comments"
+msgstr "0条留言"
+
+#: page-template/custom-front-page.php:44 inc/customizer.php:1043
+#: customizer.php:1064
+msgid "LEARN MORE"
+msgstr "了解更多"
+
+#: page-template/custom-front-page.php:85
+msgid "Title Border Image"
+msgstr "标题边框图像"
+
+#: template-parts/content-audio.php:61 template-parts/content-gallery.php:51
+#: template-parts/content-image.php:46 template-parts/content-video.php:62
+#: template-parts/content.php:46 template-parts/grid-layout.php:29
+#: template-parts/related-post.php:27 inc/customizer.php:1527
+#: customizer.php:1548
+msgid "Read Full"
+msgstr "阅读全文"
+
+#: template-parts/related-post.php:7 customizer.php:1503
+msgid "You May Also Like"
+msgstr "你可能也会喜欢"
+
+#: inc/logo/logo-resizer.php:19
+msgid "Logo Resizer"
+msgstr "徽标调整器"
+
+#: inc/logo/logo-resizer.php:20
+msgid "Forces the logo to have a specified width(max value is 100)."
+msgstr "强制徽标具有指定的宽度（最大值为 100）。"
+
+#: inc/logo/logo-resizer.php:42
+msgid "Show / Hide Site Title"
+msgstr "显示/隐藏站点标题"
+
+#: inc/logo/logo-resizer.php:52
+msgid "Show / Hide Site Tagline"
+msgstr "显示/隐藏网站标语"
+
+#: customizer.php:40
+msgid "Theme Settings"
+msgstr "主题设定"
+
+#: customizer.php:41
+msgid "Description of what this panel does."
+msgstr "有关此面板功能的说明。"
+
+#: customizer.php:47
+msgid "Global Color Settings"
+msgstr "全局颜色设置"
+
+#: customizer.php:56 customizer.php:67
+msgid "One can change complete theme global color settings on just one click."
+msgstr "一键即可更改完整的主题全局颜色设置。"
+
+#: customizer.php:169
+msgid "Typography"
+msgstr "版式"
+
+#: customizer.php:180
+msgid "Paragraph Color"
+msgstr "段落颜色"
+
+#: customizer.php:194
+msgid "Paragraph Fonts"
+msgstr "段落字体"
+
+#: customizer.php:205
+msgid "Paragraph Font Size"
+msgstr "段落字体大小"
+
+#: customizer.php:217
+msgid "\"a\" Tag Color"
+msgstr "“ a”标签颜色"
+
+#: customizer.php:231
+msgid "\"a\" Tag Fonts"
+msgstr "“ a”标签字体"
+
+#: customizer.php:242
+msgid "\"li\" Tag Color"
+msgstr "“ li”标签颜色"
+
+#: customizer.php:256
+msgid "\"li\" Tag Fonts"
+msgstr "“ li”标签字体"
+
+#: customizer.php:267
+msgid "H1 Color"
+msgstr "H1颜色"
+
+#: customizer.php:281
+msgid "H1 Fonts"
+msgstr "H1字体"
+
+#: customizer.php:293
+msgid "H1 Font Size"
+msgstr "H1字体大小"
+
+#: customizer.php:305
+msgid "h2 Color"
+msgstr "h2颜色"
+
+#: customizer.php:319
+msgid "h2 Fonts"
+msgstr "h2字体"
+
+#: customizer.php:331
+msgid "h2 Font Size"
+msgstr "h2字体大小"
+
+#: customizer.php:343
+msgid "h3 Color"
+msgstr "h3颜色"
+
+#: customizer.php:357
+msgid "h3 Fonts"
+msgstr "h3字体"
+
+#: customizer.php:369
+msgid "h3 Font Size"
+msgstr "h3字体大小"
+
+#: customizer.php:381
+msgid "h4 Color"
+msgstr "h4颜色"
+
+#: customizer.php:395
+msgid "h4 Fonts"
+msgstr "h4字体"
+
+#: customizer.php:407
+msgid "h4 Font Size"
+msgstr "h4字体大小"
+
+#: customizer.php:419
+msgid "h5 Color"
+msgstr "h5颜色"
+
+#: customizer.php:433
+msgid "h5 Fonts"
+msgstr "h5字体"
+
+#: customizer.php:445
+msgid "h5 Font Size"
+msgstr "h5字体大小"
+
+#: customizer.php:457
+msgid "h6 Color"
+msgstr "h6颜色"
+
+#: customizer.php:471
+msgid "h6 Fonts"
+msgstr "h6字体"
+
+#: customizer.php:483
+msgid "h6 Font Size"
+msgstr "h6字体大小"
+
+#: customizer.php:491
+msgid "Social Icon"
+msgstr "社交图标"
+
+#: customizer.php:492 customizer.php:646
+msgid "Add Header Content here"
+msgstr "在此处添加标题内容"
+
+#: customizer.php:503
+msgid "Facebook Icon"
+msgstr "Facebook的图标"
+
+#: customizer.php:513
+msgid "Add Facebook link"
+msgstr "添加Facebook链接"
+
+#: customizer.php:525
+msgid "Twitter Icon"
+msgstr "Twitter图标"
+
+#: customizer.php:535
+msgid "Add Twitter link"
+msgstr "添加Twitter链接"
+
+#: customizer.php:547
+msgid "Pinterest Icon"
+msgstr "Pinterest图标"
+
+#: customizer.php:557
+msgid "Add Pinterest link"
+msgstr "添加Pinterest链接"
+
+#: customizer.php:569
+msgid "Instagram Icon"
+msgstr "Instagram图标"
+
+#: customizer.php:579
+msgid "Add Instagram link"
+msgstr "添加Instagram链接"
+
+#: customizer.php:591
+msgid "Linkedin Icon"
+msgstr "Linkedin图标"
+
+#: customizer.php:601
+msgid "Add Linkedin link"
+msgstr "添加Linkedin链接"
+
+#: customizer.php:613
+msgid "Youtube Icon"
+msgstr "YouTube图标"
+
+#: customizer.php:623
+msgid "Add Youtube link"
+msgstr "添加Youtube链接"
+
+#: customizer.php:634
+msgid "Social Icons Font Size"
+msgstr "社交图标字体大小"
+
+#: customizer.php:636 customizer.php:884 customizer.php:1082
+#: customizer.php:1289 customizer.php:1303 customizer.php:1638
+#: customizer.php:2005 customizer.php:2087 customizer.php:2115
+#: customizer.php:2197 customizer.php:2330
+msgid "Measurement is in pixel."
+msgstr "测量以像素为单位。"
+
+#: customizer.php:645
+msgid "Topbar Section"
+msgstr "顶栏部分"
+
+#: customizer.php:655
+msgid "Topbar Padding"
+msgstr "顶栏衬垫"
+
+#: customizer.php:679 customizer.php:728 customizer.php:1333
+#: customizer.php:1588 customizer.php:1958 customizer.php:2040
+#: customizer.php:2150 customizer.php:2298
+msgid "Bottom"
+msgstr "底部"
+
+#: customizer.php:695
+msgid "Stick header on Desktop"
+msgstr "在桌面上粘贴标题"
+
+#: customizer.php:703
+msgid "Sticky Header Padding"
+msgstr "粘性标题填充"
+
+#: customizer.php:744
+msgid "Show/Hide Search"
+msgstr "显示/隐藏搜索"
+
+#: customizer.php:754
+msgid "Search Placeholder text"
+msgstr "搜索占位符文本"
+
+#: customizer.php:764
+msgid "Email Icon"
+msgstr "电子邮件图示"
+
+#: customizer.php:774
+msgid "Add Email Text"
+msgstr "添加电子邮件文字"
+
+#: customizer.php:785
+msgid "Add Email Address"
+msgstr "添加电子邮件地址"
+
+#: customizer.php:797
+msgid "Phone Icon"
+msgstr "电话图标"
+
+#: customizer.php:807
+msgid "Add Contact Text"
+msgstr "添加联系人文本"
+
+#: customizer.php:818
+msgid "Add Contact Number"
+msgstr "添加联系电话"
+
+#: customizer.php:830
+msgid "Donate Icon"
+msgstr "捐赠图标"
+
+#: customizer.php:840
+msgid "Add Donate Text"
+msgstr "添加捐赠文本"
+
+#: customizer.php:851
+msgid "Add Donate Link"
+msgstr "添加捐赠链接"
+
+#: customizer.php:858
+msgid "Header"
+msgstr "标题"
+
+#: customizer.php:869
+msgid "Menu Case"
+msgstr "菜单案例"
+
+#: customizer.php:872
+msgid "Uppercase"
+msgstr "大写"
+
+#: customizer.php:873
+msgid "Capitalize"
+msgstr "大写"
+
+#: customizer.php:882
+msgid "Menu Font Size"
+msgstr "菜单字体大小"
+
+#: customizer.php:897
+msgid "Menu Font Weight"
+msgstr "菜单字体粗细"
+
+#: customizer.php:900
+msgid "100"
+msgstr "一百"
+
+#: customizer.php:901
+msgid "200"
+msgstr "二百"
+
+#: customizer.php:902
+msgid "300"
+msgstr "三百"
+
+#: customizer.php:903
+msgid "400"
+msgstr "四百"
+
+#: customizer.php:904
+msgid "500"
+msgstr "五百"
+
+#: customizer.php:905
+msgid "600"
+msgstr "六百"
+
+#: customizer.php:906
+msgid "700"
+msgstr "七百"
+
+#: customizer.php:907
+msgid "800"
+msgstr "八百"
+
+#: customizer.php:908
+msgid "900"
+msgstr "九百"
+
+#: customizer.php:914
+msgid "Slider Settings"
+msgstr "滑块设置"
+
+#: customizer.php:925
+msgid "Show / Hide slider"
+msgstr "显示/隐藏滑块"
+
+#: customizer.php:935
+msgid "Show / Hide Slider Title"
+msgstr "显示/隐藏滑块标题"
+
+#: customizer.php:945
+msgid "Show / Hide Slider Content"
+msgstr "显示/隐藏滑块内容"
+
+#: customizer.php:955
+msgid "Show / Hide Slider Button"
+msgstr "显示/隐藏滑块按钮"
+
+#: customizer.php:965
+msgid "Select Slide Image Page"
+msgstr "选择幻灯片图像页面"
+
+#: customizer.php:976
+msgid "Slider Speed"
+msgstr "滑块速度"
+
+#: customizer.php:994
+msgid "Slider Content Alignment"
+msgstr "滑块内容对齐"
+
+#: customizer.php:997
+msgid "Center Align"
+msgstr "居中对齐"
+
+#: customizer.php:998
+msgid "Left Align"
+msgstr "左对齐"
+
+#: customizer.php:999
+msgid "Right Align"
+msgstr "右对齐"
+
+#: customizer.php:1009
+msgid "Slider Excerpt length"
+msgstr "滑块摘录长度"
+
+#: customizer.php:1026
+msgid "Show / Hide Slider Image Overlay"
+msgstr "显示/隐藏滑块图像叠加"
+
+#: customizer.php:1035
+msgid "Slider Overlay Color"
+msgstr "滑块叠加颜色"
+
+#: customizer.php:1045
+msgid "Slider Image Opacity"
+msgstr "滑块图像不透明度"
+
+#: customizer.php:1068
+msgid "Slider Button Label"
+msgstr "滑块按钮标签"
+
+#: customizer.php:1079
+msgid "Slider Height"
+msgstr "滑块高度"
+
+#: customizer.php:1092
+msgid "Causes Section"
+msgstr "原因部分"
+
+#: customizer.php:1093
+msgid "Add Causes sections below."
+msgstr "在下面添加原因部分。"
+
+#: customizer.php:1102
+msgid "Section Title"
+msgstr "章节标题"
+
+#: customizer.php:1121
+msgid "Select post"
+msgstr "选择帖子"
+
+#: customizer.php:1130
+msgid "Help Us Text"
+msgstr "帮助我们文本"
+
+#: customizer.php:1154
+msgid "Select Category to display Latest Post"
+msgstr "选择类别以显示最新帖子"
+
+#: customizer.php:1160
+msgid "Blog Settings"
+msgstr "博客设置"
+
+#: customizer.php:1172
+msgid "Blog Layout"
+msgstr "博客布局"
+
+#: customizer.php:1175 customizer.php:1662 customizer.php:1677
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: customizer.php:1176 customizer.php:1663 customizer.php:1678
+msgid "Right Sidebar"
+msgstr "右侧边栏"
+
+#: customizer.php:1177 customizer.php:1664 customizer.php:1679
+msgid "One Column"
+msgstr "一栏"
+
+#: customizer.php:1178
+msgid "Three Columns"
+msgstr "三栏"
+
+#: customizer.php:1179
+msgid "Four Columns"
+msgstr "四列"
+
+#: customizer.php:1180
+msgid "Grid Layout"
+msgstr "网格布局"
+
+#: customizer.php:1190
+msgid "Blog Page Display Type"
+msgstr "博客页面显示类型"
+
+#: customizer.php:1193
+msgid "Blocks"
+msgstr "块"
+
+#: customizer.php:1194
+msgid "Without Blocks"
+msgstr "没有块"
+
+#: customizer.php:1204
+msgid "Show / Hide Date "
+msgstr "显示/隐藏日期"
+
+#: customizer.php:1214
+msgid "Show / Hide Author"
+msgstr "显示/隐藏作者"
+
+#: customizer.php:1224
+msgid "Show / Hide Comments"
+msgstr "显示/隐藏评论"
+
+#: customizer.php:1234
+msgid "Show / Hide Post Navigation"
+msgstr "显示/隐藏帖子导航"
+
+#: customizer.php:1244
+msgid "Blog Post Content Type"
+msgstr "博客文章内容类型"
+
+#: customizer.php:1247
+msgid "No Content"
+msgstr "无内容"
+
+#: customizer.php:1248
+msgid "Full Content"
+msgstr "全部内容"
+
+#: customizer.php:1249
+msgid "Excerpt Content"
+msgstr "摘录内容"
+
+#: customizer.php:1258
+msgid "Blog Post Excerpt Number (Max 50)"
+msgstr "博客文章摘录编号（最多 50 个）"
+
+#: customizer.php:1275
+msgid "Post Excerpt Suffix"
+msgstr "摘录后缀"
+
+#: customizer.php:1287
+msgid "Featured Image Border Radius"
+msgstr "特色图片边框半径"
+
+#: customizer.php:1301
+msgid "Featured Image Shadow"
+msgstr "特色影像阴影"
+
+#: customizer.php:1317
+msgid "Blog Pagination Style"
+msgstr "博客分页样式"
+
+#: customizer.php:1319
+msgid "Number"
+msgstr "号码"
+
+#: customizer.php:1320
+msgid "Next/Prev"
+msgstr "下一页/上一页"
+
+#: customizer.php:1329
+msgid "Blog Post Navigation Position"
+msgstr "博客文章导航位置"
+
+#: customizer.php:1334
+msgid "Both"
+msgstr "两者"
+
+#: customizer.php:1339
+msgid "Single Post Options"
+msgstr "单个帖子选项"
+
+#: customizer.php:1349
+msgid "Show / Hide Single Post Breadcrumb"
+msgstr "显示/隐藏单个帖子面包屑"
+
+#: customizer.php:1359
+msgid "Show / Hide Single Post Date"
+msgstr "显示/隐藏单个发布日期"
+
+#: customizer.php:1369
+msgid "Show / Hide Single Post Author"
+msgstr "显示/隐藏单个帖子作者"
+
+#: customizer.php:1379
+msgid "Show / Hide Single Post Comment Number"
+msgstr "显示/隐藏单个帖子评论编号"
+
+#: customizer.php:1389
+msgid "Show / Hide Single Post Tags"
+msgstr "显示/隐藏单个帖子标签"
+
+#: customizer.php:1399
+msgid "Show / Hide Single Post Featured Image"
+msgstr "显示/隐藏单个帖子特色图片"
+
+#: customizer.php:1410
+msgid "Featured Image Display Type"
+msgstr "特色图像显示类型"
+
+#: customizer.php:1412
+msgid "as Banner Image"
+msgstr "作为横幅图片"
+
+#: customizer.php:1413
+msgid "as Featured Image"
+msgstr "作为特色图片"
+
+#: customizer.php:1422
+msgid "Show / Hide Single Post Navigation"
+msgstr "显示/隐藏单个帖子导航"
+
+#: customizer.php:1431
+msgid "Single Post Previous Nav text"
+msgstr "单个帖子上一个导航文本"
+
+#: customizer.php:1442
+msgid "Single Post Next Nav text"
+msgstr "单个帖子下一个导航文本"
+
+#: customizer.php:1454
+msgid "Show / Hide Single Post comment"
+msgstr "显示/隐藏单个帖子评论"
+
+#: customizer.php:1463
+msgid "Comment textarea width"
+msgstr "注释文本区域宽度"
+
+#: customizer.php:1465
+msgid "Measurement is in %."
+msgstr "测量单位为 %。"
+
+#: customizer.php:1478
+msgid "Comment form Title"
+msgstr "评论表格标题"
+
+#: customizer.php:1488
+msgid "Comment Submit Button Label"
+msgstr "评论提交按钮标签"
+
+#: customizer.php:1498
+msgid "Show / Hide Related Posts"
+msgstr "显示/隐藏相关帖子"
+
+#: customizer.php:1508
+msgid "Related Posts Title"
+msgstr "相关帖子标题"
+
+#: customizer.php:1517
+msgid "Related Posts Count"
+msgstr "相关帖子"
+
+#: customizer.php:1535
+msgid "Related Posts must be shown:"
+msgstr "必须显示相关帖子："
+
+#: customizer.php:1537
+msgid "By Categories"
+msgstr "按类别"
+
+#: customizer.php:1538
+msgid "By Tags"
+msgstr "按标签"
+
+#: customizer.php:1543
+msgid "Button Options"
+msgstr "按钮选项"
+
+#: customizer.php:1552
+msgid "Blog Post Button Label"
+msgstr "博客帖子按钮标签"
+
+#: customizer.php:1562
+msgid "Button Padding"
+msgstr "按钮填充"
+
+#: customizer.php:1604 customizer.php:1973 customizer.php:2055
+#: customizer.php:2103 customizer.php:2165 customizer.php:2229
+#: customizer.php:2317
+msgid "Left"
+msgstr "剩下"
+
+#: customizer.php:1620 customizer.php:1988 customizer.php:2070
+#: customizer.php:2104 customizer.php:2180 customizer.php:2230
+#: customizer.php:2318
+msgid "Right"
+msgstr "对"
+
+#: customizer.php:1636
+msgid "Border Radius"
+msgstr "边界半径"
+
+#: customizer.php:1648
+msgid "Sidebar options"
+msgstr "侧边栏选项"
+
+#: customizer.php:1659
+msgid "Single Page Layout"
+msgstr "单页布局"
+
+#: customizer.php:1674
+msgid "Single Post Layout"
+msgstr "单帖布局"
+
+#: customizer.php:1685
+msgid "Advance Options"
+msgstr "高级选项"
+
+#: customizer.php:1696
+msgid "Enable / Disable Preloader"
+msgstr "启用/禁用预加载器"
+
+#: customizer.php:1705
+msgid "Preloader Color"
+msgstr "预加载器颜色"
+
+#: customizer.php:1715
+msgid "Preloader Background Color"
+msgstr "预加载器背景色"
+
+#: customizer.php:1726
+msgid "Preloader Type"
+msgstr "预加载器类型"
+
+#: customizer.php:1729
+msgid "Square"
+msgstr "正方形"
+
+#: customizer.php:1730
+msgid "Circle"
+msgstr "圆圈"
+
+#: customizer.php:1740
+msgid "Theme Layout"
+msgstr "主题布局"
+
+#: customizer.php:1743
+msgid "Default Theme"
+msgstr "默认主题"
+
+#: customizer.php:1744
+msgid "Container Theme"
+msgstr "容器主题"
+
+#: customizer.php:1745
+msgid "Box Container Theme"
+msgstr "盒子容器主题"
+
+#: customizer.php:1751
+msgid "404 Page & Search Result Settings"
+msgstr "404页面和搜索结果设置"
+
+#: customizer.php:1761
+msgid "404 Title"
+msgstr "404 标题"
+
+#: customizer.php:1771
+msgid "404 button Label"
+msgstr "404按钮标签"
+
+#: customizer.php:1781
+msgid "No Search Result Title"
+msgstr "没有搜索结果标题"
+
+#: customizer.php:1791
+msgid "No Search Result Text"
+msgstr "无搜索结果文本"
+
+#: customizer.php:1798
+msgid "Responsive Options"
+msgstr "响应式选项"
+
+#: customizer.php:1808
+msgid "Menu Open Icon"
+msgstr "菜单打开图标"
+
+#: customizer.php:1819
+msgid "Mobile Menu Label"
+msgstr "移动菜单标签"
+
+#: customizer.php:1829
+msgid "Menu Close Icon"
+msgstr "菜单关闭图标"
+
+#: customizer.php:1840
+msgid "Close Menu Label"
+msgstr "关闭菜单标签"
+
+#: customizer.php:1846
+msgid "WooCommerce Options"
+msgstr "WooCommerce 选项"
+
+#: customizer.php:1856
+msgid "Enable Shop Page Sidebar"
+msgstr "启用商店页面侧边栏"
+
+#: customizer.php:1866
+msgid "Enable Shop Page Pagination"
+msgstr "启用商店页面分页"
+
+#: customizer.php:1876
+msgid "Enable Single Product Page Sidebar"
+msgstr "启用单个产品页面侧边栏"
+
+#: customizer.php:1886
+msgid "Enable related Products"
+msgstr "启用相关产品"
+
+#: customizer.php:1895
+msgid "Products Per Page"
+msgstr "每页产品"
+
+#: customizer.php:1910
+msgid "Products Per Row"
+msgstr "每行产品"
+
+#: customizer.php:1926
+msgid "Show / Hide product border"
+msgstr "显示/隐藏产品边框"
+
+#: customizer.php:1934
+msgid "Product Padding"
+msgstr "产品填充"
+
+#: customizer.php:2003
+msgid "Product Border Radius"
+msgstr "产品边界半径"
+
+#: customizer.php:2016
+msgid "Product Button Padding"
+msgstr "产品按钮填充"
+
+#: customizer.php:2085
+msgid "Product Button Border Radius"
+msgstr "产品按钮边框半径"
+
+#: customizer.php:2100
+msgid "Product Sale Position"
+msgstr "产品销售职位"
+
+#: customizer.php:2113
+msgid "Product Sale Font Size"
+msgstr "产品销售字体大小"
+
+#: customizer.php:2126
+msgid "Product Sale Padding"
+msgstr "产品销售填充"
+
+#: customizer.php:2195
+msgid "Product Sale Border Radius"
+msgstr "产品销售边界半径"
+
+#: customizer.php:2206
+msgid "Footer Section"
+msgstr "页脚部分"
+
+#: customizer.php:2216
+msgid "Show / Hide Back To Top"
+msgstr "显示/隐藏 返回顶部"
+
+#: customizer.php:2226
+msgid "Back to Top Alignment"
+msgstr "返回顶部对齐"
+
+#: customizer.php:2231 customizer.php:2319
+msgid "Center"
+msgstr "中心"
+
+#: customizer.php:2240
+msgid "Footer Background Color"
+msgstr "页脚背景颜色"
+
+#: customizer.php:2249
+msgid "Footer Background Image"
+msgstr "页脚背景图片"
+
+#: customizer.php:2259
+msgid "No. of Footer columns"
+msgstr "页脚列数"
+
+#: customizer.php:2261
+msgid "Select the number of footer columns and add your widgets in the footer."
+msgstr "选择页脚列数并在页脚中添加小部件。"
+
+#: customizer.php:2263
+msgid "One column"
+msgstr "一栏"
+
+#: customizer.php:2264
+msgid "Two columns"
+msgstr "两列"
+
+#: customizer.php:2265
+msgid "Three columns"
+msgstr "三列"
+
+#: customizer.php:2266
+msgid "Four columns"
+msgstr "四列"
+
+#: customizer.php:2274
+msgid "Copyright Padding"
+msgstr "版权填充"
+
+#: customizer.php:2314
+msgid "Copyright Alignment"
+msgstr "版权对齐"
+
+#: customizer.php:2328
+msgid "Copyright Font Size"
+msgstr "版权字体大小"
+
+#: customizer.php:2342
+msgid "Copyright Text"
+msgstr "版权文字"
+
+#: customizer.php:2343
+msgid "Add some text for footer like copyright etc."
+msgstr "为页脚添加一些文本，例如版权等。"
+
+#: customizer.php:2428
+msgid "Charity Fundraiser Pro"
+msgstr "慈善筹款亲"
+
+#: customizer.php:2429
+msgid "Go Pro"
+msgstr "专业版"

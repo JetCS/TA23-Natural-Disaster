@@ -1,0 +1,41 @@
+<?php
+/**
+ * Charity Fundraiser: Block Patterns
+ *
+ * @package Charity Fundraiser
+ * @since   1.0.0
+ */
+
+/**
+ * Register Block Pattern Category.
+ */
+if ( function_exists( 'register_block_pattern_category' ) ) {
+
+	register_block_pattern_category(
+		'charity-fundraiser',
+		array( 'label' => __( 'Charity Fundraiser', 'charity-fundraiser' ) )
+	);
+}
+
+/**
+ * Register Block Patterns.
+ */
+if ( function_exists( 'register_block_pattern' ) ) {
+	register_block_pattern(
+		'charity-fundraiser/banner-section',
+		array(
+			'title'      => __( 'Banner Section', 'charity-fundraiser' ),
+			'categories' => array( 'charity-fundraiser' ),
+			'content'    => "<!-- wp:cover {\"url\":\"" . esc_url(get_template_directory_uri()) . "/block-patterns/images/banner.png\",\"id\":1129,\"dimRatio\":20,\"align\":\"full\",\"className\":\"main-banner-section\"} -->\n<div class=\"wp-block-cover alignfull main-banner-section\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-background-dim-20 has-background-dim\"></span><img class=\"wp-block-cover__image-background wp-image-1129\" alt=\"\" src=\"" . esc_url(get_template_directory_uri()) . "/block-patterns/images/banner.png\" data-object-fit=\"cover\"/><div class=\"wp-block-cover__inner-container\"><!-- wp:columns {\"align\":\"full\",\"className\":\"mx-lg-5 mx-5\"} -->\n<div class=\"wp-block-columns alignfull mx-lg-5 mx-5\"><!-- wp:column {\"className\":\"text-md-start text-center\"} -->\n<div class=\"wp-block-column text-md-start text-center\"><!-- wp:heading {\"level\":1,\"style\":{\"typography\":{\"textTransform\":\"uppercase\",\"fontSize\":\"30px\"}}} -->\n<h1 style=\"font-size:30px;text-transform:uppercase\">LOREM IPSUM IS SIMPLY DUMMY</h1>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":\"15px\"}}} -->\n<p style=\"font-size:15px\">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"textColor\":\"white\",\"style\":{\"color\":{\"background\":\"#288200\"},\"border\":{\"radius\":\"30px\"},\"typography\":{\"fontSize\":\"15px\"}}} -->\n<div class=\"wp-block-button has-custom-font-size\" style=\"font-size:15px\"><a class=\"wp-block-button__link has-white-color has-text-color has-background\" style=\"border-radius:30px;background-color:#288200\">LEARN MORE</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div></div>\n<!-- /wp:cover -->",
+		)
+	);
+
+	register_block_pattern(
+		'charity-fundraiser/service-section',
+		array(
+			'title'      => __( 'Service Section', 'charity-fundraiser' ),
+			'categories' => array( 'charity-fundraiser' ),
+			'content'    => "<!-- wp:group {\"align\":\"full\",\"className\":\"main-service-section px-md-0 px-2\"} -->\n<div class=\"wp-block-group alignfull main-service-section px-md-0 px-2\"><!-- wp:heading {\"textAlign\":\"center\"} -->\n<h2 class=\"has-text-align-center\">Help For Cause</h2>\n<!-- /wp:heading -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":1202,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image aligncenter size-full\"><img src=\"" . esc_url(get_template_directory_uri()) . "/block-patterns/images/Tittle icon.png\" alt=\"\" class=\"wp-image-1202\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column {\"verticalAlignment\":\"top\",\"className\":\"service-section-img\"} -->\n<div class=\"wp-block-column is-vertically-aligned-top service-section-img\"><!-- wp:image {\"id\":1204,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"" . esc_url(get_template_directory_uri()) . "/block-patterns/images/About.png\" alt=\"\" class=\"wp-image-1204\"/></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"className\":\"service-section-col\"} -->\n<div class=\"wp-block-column service-section-col\"><!-- wp:heading {\"level\":3,\"style\":{\"typography\":{\"textTransform\":\"uppercase\"}},\"fontSize\":\"medium\"} -->\n<h3 class=\"has-medium-font-size\" style=\"text-transform:uppercase\">LOREM IPSUM IS SIMPLY </h3>\n<!-- /wp:heading -->\n\n<!-- wp:columns {\"className\":\"text-md-start text-center\"} -->\n<div class=\"wp-block-columns text-md-start text-center\"><!-- wp:column {\"width\":\"15.33%\",\"className\":\"service-img\"} -->\n<div class=\"wp-block-column service-img\" style=\"flex-basis:15.33%\"><!-- wp:image {\"id\":1205,\"sizeSlug\":\"full\",\"linkDestination\":\"none\",\"className\":\"text-alighn-center\"} -->\n<figure class=\"wp-block-image size-full text-alighn-center\"><img src=\"" . esc_url(get_template_directory_uri()) . "/block-patterns/images/Icon.png\" alt=\"\" class=\"wp-image-1205\"/></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":\"85.66%\",\"className\":\"service-content \"} -->\n<div class=\"wp-block-column service-content\" style=\"flex-basis:85.66%\"><!-- wp:heading {\"level\":4,\"style\":{\"typography\":{\"fontSize\":\"16px\",\"textTransform\":\"uppercase\"},\"color\":{\"text\":\"#288200\"}}} -->\n<h4 class=\"has-text-color\" style=\"color:#288200;font-size:16px;text-transform:uppercase\">LOREM IPSUM1</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":\"14px\"}}} -->\n<p style=\"font-size:14px\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"className\":\"text-md-start text-center\"} -->\n<div class=\"wp-block-columns text-md-start text-center\"><!-- wp:column {\"width\":\"15.33%\",\"className\":\"service-img\"} -->\n<div class=\"wp-block-column service-img\" style=\"flex-basis:15.33%\"><!-- wp:image {\"id\":1206,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"" . esc_url(get_template_directory_uri()) . "/block-patterns/images/Icon2.png\" alt=\"\" class=\"wp-image-1206\"/></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":\"85.66%\",\"className\":\"service-content \"} -->\n<div class=\"wp-block-column service-content\" style=\"flex-basis:85.66%\"><!-- wp:heading {\"level\":4,\"style\":{\"typography\":{\"fontSize\":\"16px\",\"textTransform\":\"uppercase\"},\"color\":{\"text\":\"#288200\"}}} -->\n<h4 class=\"has-text-color\" style=\"color:#288200;font-size:16px;text-transform:uppercase\">LOREM IPSUM2</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":\"14px\"}}} -->\n<p style=\"font-size:14px\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->\n\n<!-- wp:columns {\"className\":\"text-md-start text-center\"} -->\n<div class=\"wp-block-columns text-md-start text-center\"><!-- wp:column {\"width\":\"15.33%\",\"className\":\"service-img\"} -->\n<div class=\"wp-block-column service-img\" style=\"flex-basis:15.33%\"><!-- wp:image {\"id\":1207,\"sizeSlug\":\"full\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-full\"><img src=\"" . esc_url(get_template_directory_uri()) . "/block-patterns/images/Icon3.png\" alt=\"\" class=\"wp-image-1207\"/></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":\"85.66%\",\"className\":\"service-content \"} -->\n<div class=\"wp-block-column service-content\" style=\"flex-basis:85.66%\"><!-- wp:heading {\"level\":4,\"style\":{\"typography\":{\"fontSize\":\"16px\",\"textTransform\":\"uppercase\"},\"color\":{\"text\":\"#288200\"}}} -->\n<h4 class=\"has-text-color\" style=\"color:#288200;font-size:16px;text-transform:uppercase\">LOREM IPSUM3</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":\"14px\"}}} -->\n<p style=\"font-size:14px\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div>\n<!-- /wp:group -->",
+		)
+	);
+}
