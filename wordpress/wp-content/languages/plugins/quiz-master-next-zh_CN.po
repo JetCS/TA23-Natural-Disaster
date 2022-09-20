@@ -1,0 +1,1155 @@
+# Translation of Plugins - Quiz And Survey Master &#8211; Best Quiz, Exam and Survey Plugin for WordPress - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Quiz And Survey Master &#8211; Best Quiz, Exam and Survey Plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-31 03:57:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Quiz And Survey Master &#8211; Best Quiz, Exam and Survey Plugin for WordPress - Stable (latest release)\n"
+
+#: php/admin/functions.php:896 php/admin/functions.php:897
+msgid "X = Question ID. It will show result of particular question."
+msgstr "X =问题ID。 它将显示特定问题的结果。"
+
+#: php/admin/options-page-questions-tab.php:497
+msgid "How to use this option?"
+msgstr "如何使用此选项？"
+
+#: php/question-types.php:279
+msgid "Polar"
+msgstr "极性"
+
+#: php/admin/quizzes-page.php:260 php/admin/quizzes-page.php:262
+msgid "Import & Export"
+msgstr "导入 & 导出"
+
+#: php/admin/options-page-questions-tab.php:437
+msgid "Image"
+msgstr "图像"
+
+#: php/question-types.php:82
+msgid "File Upload"
+msgstr "文件上传"
+
+#: php/admin/options-page-questions-tab.php:441
+msgid "Video"
+msgstr "视频"
+
+#: php/admin/functions.php:1118 php/admin/functions.php:1150
+#: php/admin/quizzes-page.php:450
+msgid "Buy Now"
+msgstr "立即购买"
+
+#: php/admin/options-page-questions-tab.php:432
+msgid "Allow File type"
+msgstr "允许的文件类型"
+
+#: php/admin/options-page-questions-tab.php:424
+msgid "File upload limit ( in MB )"
+msgstr "文件上传限制(以MB为单位)"
+
+#: php/admin/quizzes-page.php:441
+msgid "Extend QSM"
+msgstr "扩展 QSM"
+
+#: php/admin/options-page-contact-tab.php:148 php/question-types.php:94
+msgid "Date"
+msgstr "日期"
+
+#: php/admin/options-page-questions-tab.php:436
+msgid "Text File"
+msgstr "文本文件"
+
+#: php/admin/quizzes-page.php:446
+msgid "Export functionality is provided as Premium addon."
+msgstr "导出功能是作为高级插件提供。"
+
+#. Plugin URI of the plugin
+msgid "https://expresstech.io/"
+msgstr "https://expresstech.io/"
+
+#. Author of the plugin
+msgid "ExpressTech"
+msgstr "ExpressTech"
+
+#: php/classes/class-qmn-plugin-helper.php:897
+msgid "flash"
+msgstr "flash"
+
+#: php/admin/admin-results-page.php:500
+msgid "No record found."
+msgstr "没有找到记录。"
+
+#: php/classes/class-qmn-plugin-helper.php:921
+msgid "wobble"
+msgstr "摇晃"
+
+#: php/classes/class-qmn-plugin-helper.php:933
+msgid "No animation"
+msgstr "没有动画"
+
+#: php/classes/class-qmn-plugin-helper.php:901
+msgid "pulse"
+msgstr "脉冲"
+
+#: php/classes/class-qmn-plugin-helper.php:925
+msgid "jello"
+msgstr "果冻"
+
+#: php/classes/class-qmn-plugin-helper.php:913
+msgid "swing"
+msgstr "摇摆"
+
+#: php/classes/class-qmn-plugin-helper.php:905
+msgid "rubberBand"
+msgstr "橡皮筋"
+
+#: php/classes/class-qmn-plugin-helper.php:929
+msgid "heartBeat"
+msgstr "心跳"
+
+#: php/classes/class-qmn-plugin-helper.php:893
+msgid "bounce"
+msgstr "弹跳"
+
+#: php/classes/class-qmn-plugin-helper.php:909
+msgid "shake"
+msgstr "抖动"
+
+#: php/question-types/qsm-question-type-dropdown.php:27
+msgid "Please select your answer"
+msgstr "请选择您的答案"
+
+#: php/admin/functions.php:15
+msgid "Something went wrong"
+msgstr "出错了"
+
+#: php/admin/options-page-results-page-tab.php:71
+msgid "Show result id"
+msgstr "显示结果id"
+
+#: php/admin/addons-page.php:325
+msgid "Get Your Free Addon!"
+msgstr "获得您免费的插件！"
+
+#: mlw_quizmaster2.php:587
+msgid "Get a Free Addon!"
+msgstr "获取免费的插件！"
+
+#: mlw_quizmaster2.php:587
+msgid "Get a Free Addon"
+msgstr "获取免费的插件"
+
+#: php/admin/addons-page.php:328
+msgid "Wanna get more out of Quiz and Survey Master, but not yet ready to spend the cash? Get one free addon today!"
+msgstr "想要从测试和调查中得到更多，但还没有准备好花钱吗?今天得到一个免费的插件"
+
+#: php/admin/functions.php:886
+msgid "X: Category name - The score a specific category earned."
+msgstr "X：类别名称-特定类别获得的分数。"
+
+#: php/admin/functions.php:895
+msgid "X: Category name - The average amount of points a specific category earned."
+msgstr "X：类别名称-特定类别获得的平均积分。"
+
+#: php/admin/functions.php:885
+msgid "X: Category name - The amount of points a specific category earned."
+msgstr "X：类别名称-特定类别获得的积分数量。"
+
+#: php/admin/options-page-questions-tab.php:383
+msgid "Hide Autofill?"
+msgstr "隐藏自动填充？"
+
+#: php/admin/options-page-results-page-tab.php:70
+msgid "X = Question ID Note: only supported for multiple choice answers"
+msgstr "X =问题ID  注意：仅支持多选题答案"
+
+#: php/admin/options-page-email-tab.php:54
+#: php/admin/options-page-email-tab.php:60
+msgid "Save Emails"
+msgstr "保存电子邮件"
+
+#: php/admin/options-page-email-tab.php:55
+#: php/admin/options-page-email-tab.php:61
+msgid "Add New Email"
+msgstr "添加新的Email"
+
+#: php/admin/options-page-email-tab.php:161
+#: php/admin/options-page-results-page-tab.php:147
+msgid "Add additional condition"
+msgstr "添加其他条件"
+
+#: php/admin/settings-page.php:83
+msgid "From Name (The name emails come from)"
+msgstr "发件人姓名（来自的电子邮件的名称）"
+
+#: php/admin/settings-page.php:84
+msgid "From Email (The email address that emails come from)"
+msgstr "发件人邮箱（电子邮件地址）"
+
+#: php/classes/class-qmn-quiz-creator.php:333
+msgid "An error occurred while trying to update the name of your quiz or survey. Please try again."
+msgstr "尝试更新测验或调查的名称时发生错误。 请再试一遍。"
+
+#: php/admin/options-page-style-tab.php:50
+msgid "Error occured when trying to save the styles. Please try again."
+msgstr "尝试保存样式时发生错误。 请再试一遍。"
+
+#: mlw_quizmaster2.php:647 php/admin/admin-results-page.php:555
+#: php/admin/functions.php:843 php/admin/options-page-questions-tab.php:712
+#: php/admin/options-page-style-tab.php:317 php/admin/quiz-options-page.php:241
+#: php/admin/quiz-options-page.php:261 php/admin/quizzes-page.php:336
+#: php/admin/quizzes-page.php:366 php/admin/quizzes-page.php:400
+#: php/admin/quizzes-page.php:431 php/admin/quizzes-page.php:451
+#: php/shortcodes.php:254 php/shortcodes.php:270
+msgid "Cancel"
+msgstr "取消"
+
+#: php/admin/quizzes-page.php:243
+msgid "Error trying to reset stats. Please try again."
+msgstr "尝试重置统计信息时出错。 请再试一遍。"
+
+#: php/admin/quizzes-page.php:111
+msgid "Reset"
+msgstr "重置"
+
+#: php/gdpr.php:182
+msgid "User ID"
+msgstr "用户ID"
+
+#: php/gdpr.php:30
+msgid "The data the software collects"
+msgstr "软件收集的数据"
+
+#: php/gdpr.php:154
+msgid "Score Earned"
+msgstr "获得分数"
+
+#: php/gdpr.php:37
+msgid "Quiz And Survey Master does not send any of your data to anywhere outside of this site by default."
+msgstr "默认情况下，Quiz And Survey Master 不会将您的任何数据发送到该网站之外的任何地方。"
+
+#: php/gdpr.php:33
+msgid "How long we retain your data"
+msgstr "我们保留您的数据多久"
+
+#: php/gdpr.php:36
+msgid "Where we send your data"
+msgstr "我们将您的信息发送到哪"
+
+#: php/gdpr.php:150
+msgid "Points Earned"
+msgstr "获得积分"
+
+#: php/gdpr.php:166
+msgid "Name Field"
+msgstr "名称字段"
+
+#: php/gdpr.php:29
+msgid "Many of our quizzes, surveys, and forms are created using Quiz And Survey Master."
+msgstr "我们的许多测验，调查和表单都是使用 Quiz And Survey Master创建的。"
+
+#: php/gdpr.php:31
+msgid "In order to distinguish individual users, IP addresses are collected and stored with the responses."
+msgstr "为了区分各个用户，将收集IP地址并将其与响应一起存储。"
+
+#: php/gdpr.php:190
+msgid "Time to complete form"
+msgstr "填写表单的时间"
+
+#: php/gdpr.php:146
+msgid "Time Submitted"
+msgstr "提交时间"
+
+#: php/gdpr.php:158
+msgid "Questions Answered Correctly"
+msgstr "正确回答的问题"
+
+#: php/gdpr.php:178
+msgid "Phone Field"
+msgstr "电话字段"
+
+#: php/gdpr.php:174
+msgid "Email Field"
+msgstr "电子邮件字段"
+
+#: php/gdpr.php:32
+msgid "Each individual form may have fields for a variety of other personal information, such as name and email. This data is needed to identify and possibly communicate with the user. There may be other fields asking for personal information and this data may be for different purposes for each quiz, survey, or form. If any data is to be used for purposes other than grading or survey purposes, this will be disclosed on the form itself."
+msgstr "每个单独的表单可能都有用于其他各种个人信息的字段，例如姓名和电子邮件。 需要此数据来识别用户并可能与用户联系。 可能还有其他字段要求提供个人信息，并且对于每个测验，调查或表格，此数据可能出于不同的目的。 如果将任何数据用于分级或调查以外的目的，则将在表单本身上进行披露。"
+
+#: php/gdpr.php:35
+msgid "Change This! If you are using an addon or custom software to sync data with a 3rd party (such as MailChimp), data is retained there which should be mentioned here."
+msgstr "改变这个！ 如果您使用插件或自定义软件与第三方（例如MailChimp）同步数据，则数据将保留在此处，此处应提及。"
+
+#: php/gdpr.php:38
+msgid "Change This! If you are sharing the responses with anyone and do not list it anywhere else in your privacy policy, enter information about that here. "
+msgstr "改变这个！ 如果您与任何人分享答复，并且不在隐私策略中的其他任何地方列出，请在这里输入相关信息。"
+
+#: php/gdpr.php:142
+msgid "Form Name"
+msgstr "表单名"
+
+#: php/gdpr.php:194
+msgid "Form comments"
+msgstr "表单评论"
+
+#: php/gdpr.php:162
+msgid "Total Questions"
+msgstr "总问题"
+
+#: php/gdpr.php:170
+msgid "Business Field"
+msgstr "单位字段"
+
+#: php/classes/class-qmn-quiz-manager.php:2443
+msgid "Unknown"
+msgstr "未知"
+
+#: mlw_quizmaster2.php:481
+msgid "Search Quizzes"
+msgstr "搜索测验"
+
+#: mlw_quizmaster2.php:447 mlw_quizmaster2.php:480
+#: php/admin/quizzes-page.php:279 php/admin/settings-page.php:336
+#: php/classes/class-qsm-install.php:2060
+msgid "Quizzes & Surveys"
+msgstr "测验和调查"
+
+#: mlw_quizmaster2.php:472 mlw_quizmaster2.php:473 mlw_quizmaster2.php:474
+#: php/admin/options-page-email-tab.php:185
+#: php/admin/options-page-results-page-tab.php:166
+#: php/classes/class-qsm-install.php:52
+msgid "Quiz"
+msgstr "测验"
+
+#: mlw_quizmaster2.php:479 php/admin/quiz-options-page.php:122
+msgid "View Quiz"
+msgstr "查看测验"
+
+#: mlw_quizmaster2.php:478 mlw_quizmaster2.php:688
+msgid "Edit Quiz"
+msgstr "编辑测验"
+
+#: php/admin/settings-page.php:75
+msgid "Disable collecting and storing IP addresses?"
+msgstr "禁用收集和存储IP地址？"
+
+#: mlw_quizmaster2.php:476
+msgid "Add New Quiz"
+msgstr "添加新测验"
+
+#: mlw_quizmaster2.php:482
+msgid "Parent Quiz:"
+msgstr "上级测验:"
+
+#: php/classes/class-qmn-quiz-manager.php:2421
+msgid "Not collected"
+msgstr "未收集"
+
+#: mlw_quizmaster2.php:484
+msgid "No Quiz Found In Trash"
+msgstr "回收站中未找到测验"
+
+#: mlw_quizmaster2.php:483
+msgid "No Quiz Found"
+msgstr "找不到测验"
+
+#: mlw_quizmaster2.php:477
+msgid "New Quiz"
+msgstr "新测验"
+
+#: php/admin/settings-page.php:81
+msgid "Post Type Plural Name (Shown in various places such as on archive pages)"
+msgstr "文章类型复数名称（在各个位置显示，例如在存档页面上）"
+
+#: php/admin/admin-results-page.php:349 php/admin/admin-results-page.php:546
+#: php/gdpr.php:186
+msgid "IP Address"
+msgstr "IP地址"
+
+#: php/classes/class-qsm-tracking.php:195
+msgid "Allow Quiz And Survey Master to track this plugin's usage and help us make this plugin better?"
+msgstr "允许 Quiz And Survey Master跟踪该插件的使用情况，并帮助我们使该插件更好吗？"
+
+#: php/classes/class-qsm-tracking.php:197
+msgid "Click here to learn more about why we need this data and what we collect"
+msgstr "单击此处以了解有关我们为什么需要此数据以及我们收集什么的更多信息"
+
+#: php/admin/admin-results-page.php:112
+#: php/classes/class-qmn-quiz-creator.php:331
+msgid "Unknown error"
+msgstr "未知错误"
+
+#. translators: %s: error
+#: php/admin/admin-results-page.php:115
+msgid "There was an error when deleting this result. Error from WordPress: %s"
+msgstr "删除此结果时出现错误。 WordPress错误: %s"
+
+#: php/classes/class-qsm-tracking.php:196
+msgid "No sensitive data is tracked. Only feature usage and data about quizzes, surveys, and questions are collected. No questions or user responses is ever collected."
+msgstr "没有跟踪敏感数据。 仅收集功能使用情况以及有关测验，调查和问题的数据。 从未收集任何问题或用户回复。"
+
+#: php/classes/class-qsm-fields.php:82
+msgid "There was an error when updating the settings. Please try again."
+msgstr "更新设置时出现错误。 请再试一遍。"
+
+#: php/admin/options-page-questions-tab.php:298
+#: php/admin/options-page-questions-tab.php:1107
+msgid "Correct"
+msgstr "正确"
+
+#: php/admin/admin-results-page.php:295 php/admin/admin-results-page.php:305
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: php/admin/admin-results-page.php:301
+msgid "User Name"
+msgstr "用户名"
+
+#: php/admin/admin-results-page.php:299
+msgid "Default (Time)"
+msgstr "默认(时间)"
+
+#: php/admin/options-page-contact-tab.php:49
+msgid "Add New Field"
+msgstr "添加新字段"
+
+#: php/admin/admin-results-page.php:297
+msgid "Order By"
+msgstr "排序"
+
+#: php/admin/admin-results-page.php:303
+msgid "Correct Percent"
+msgstr "正确百分比"
+
+#: php/admin/quizzes-page.php:98
+msgid "Click here"
+msgstr "点击此处"
+
+#: php/classes/class-qmn-quiz-creator.php:326
+msgid "The name of your quiz or survey has been updated successfully."
+msgstr "您的测验或调查的名称已成功更新。"
+
+#: php/classes/class-qmn-quiz-creator.php:521
+msgid "Your quiz or survey has been duplicated successfully."
+msgstr "您的测验或调查已成功复制。"
+
+#: php/classes/class-qmn-quiz-creator.php:286
+msgid "Your quiz or survey has been deleted successfully."
+msgstr "您的测验或调查已成功删除。"
+
+#: php/classes/class-qmn-quiz-creator.php:204
+msgid "Your new quiz or survey has been created successfully. To begin editing, click the Edit link."
+msgstr "您的新测验或调查已成功创建。 要开始编辑，请单击“编辑”链接。"
+
+#: php/admin/stats-page.php:27
+msgid "Quiz/Survey Statistics"
+msgstr "测验/调查 统计"
+
+#: php/admin/stats-page.php:61
+msgid "Quiz And Survey Submissions"
+msgstr "测验和调查提交"
+
+#: php/admin/options-page-style-tab.php:391
+#: php/classes/class-qsm-fields.php:277
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: php/admin/functions.php:845 php/admin/functions.php:847
+#: php/classes/class-qmn-quiz-creator.php:115
+#: php/classes/class-qsm-settings.php:349
+msgid "Next"
+msgstr "继续"
+
+#: php/admin/options-page-contact-tab.php:15
+msgid "Contact"
+msgstr "联系人"
+
+#: php/admin/settings-page.php:541
+msgid " Settings have been updated!"
+msgstr "用户设置已更新"
+
+#: php/admin/settings-page.php:530
+msgid "Global Settings"
+msgstr "全局设置"
+
+#: php/admin/settings-page.php:80
+msgid "Quiz Url Slug"
+msgstr "测验网址别名"
+
+#: php/admin/settings-page.php:220
+msgid "These settings are applied to the entire plugin and all quizzes."
+msgstr "这些设置应用于整个插件和所有测验。"
+
+#: php/admin/settings-page.php:87
+msgid "Template For Admin Results Details"
+msgstr "管理结果详细信息的模板"
+
+#: php/admin/settings-page.php:73 php/admin/settings-page.php:533
+msgid "Main Settings"
+msgstr "主菜单设置"
+
+#: php/admin/settings-page.php:82
+msgid "Facebook App Id"
+msgstr "Facebook应用程序ID"
+
+#: php/admin/settings-page.php:76
+msgid "Disable Quiz Posts From Being Searched?"
+msgstr "禁止测验内容被搜索？"
+
+#: php/admin/settings-page.php:77
+msgid "Disable Quiz Archive?"
+msgstr "禁用测验归档？"
+
+#: php/admin/settings-page.php:74
+msgid "Allow Usage Tracking?"
+msgstr "允许追踪使用率？"
+
+#: php/admin/settings-page.php:480
+msgid "Allow Quiz And Survey Master to anonymously track this plugin's usage and help us make this plugin better."
+msgstr "允许测验和调查大师匿名跟踪这个插件的使用情况，并帮助我们更好地使这个插件。"
+
+#: php/question-types.php:173
+msgid "Text/HTML Section"
+msgstr "文本/HTML 部分"
+
+#: php/admin/functions.php:294 php/admin/options-page-questions-tab.php:473
+#: php/classes/class-qsm-install.php:2073
+msgid "View Documentation"
+msgstr "观看文档"
+
+#: php/classes/class-qsm-install.php:2073
+msgid "Documentation"
+msgstr "文档"
+
+#: php/classes/class-qsm-install.php:2074
+msgid "Create Support Ticket"
+msgstr "创建工单"
+
+#: php/admin/settings-page.php:1226 php/classes/class-qsm-install.php:329
+msgid "Random Answers"
+msgstr "随机答案"
+
+#. Plugin Name of the plugin
+msgid "Quiz And Survey Master"
+msgstr "Quiz And Survey Master"
+
+#. Author URI of the plugin
+msgid "https://quizandsurveymaster.com/"
+msgstr "https://quizandsurveymaster.com/"
+
+#. Description of the plugin
+msgid "Easily and quickly add quizzes and surveys to your website."
+msgstr "轻而易举地将测验和调查添加到您的网站。"
+
+#: php/classes/class-qsm-tracking.php:199
+msgid "Do not allow"
+msgstr "不允许！"
+
+#: php/classes/class-qsm-tracking.php:198
+msgid "Allow"
+msgstr "允许"
+
+#: php/admin/admin-results-page.php:489
+#: php/admin/options-page-contact-tab.php:162
+#: php/admin/options-page-questions-tab.php:681
+#: php/admin/options-page-questions-tab.php:690 php/admin/quizzes-page.php:160
+#: php/admin/quizzes-page.php:376 php/admin/quizzes-page.php:398
+#: php/admin/quizzes-page.php:429
+msgid "Delete"
+msgstr "删除"
+
+#: php/admin/options-page-style-tab.php:24
+msgid "Style"
+msgstr "样式"
+
+#: php/admin/options-page-questions-tab.php:368
+msgid "None"
+msgstr "无"
+
+#: php/admin/admin-results-page.php:347 php/admin/tools-page.php:191
+msgid "User"
+msgstr "用户"
+
+#: php/classes/class-qsm-install.php:1128
+msgid "Twitter Sharing Text"
+msgstr "Twitter 分享文本"
+
+#: php/admin/options-page-questions-tab.php:374
+#: php/classes/class-qsm-install.php:1301
+msgid "Hint"
+msgstr "提示"
+
+#: php/admin/options-page-results-page-tab.php:43
+#: php/admin/options-page-results-page-tab.php:49
+msgid "Save Results Pages"
+msgstr "保存结果页面"
+
+#: php/classes/class-qsm-install.php:908 php/classes/class-qsm-install.php:933
+#: php/classes/class-qsm-install.php:957 php/classes/class-qsm-install.php:981
+msgid "Require"
+msgstr "必填"
+
+#: php/admin/admin-results-page.php:118
+msgid "Your results has been deleted successfully."
+msgstr "你的成绩已经删除"
+
+#: php/admin/admin-results-page.php:342
+msgid "Time To Complete"
+msgstr "完成时间"
+
+#: php/admin/admin-results-page.php:348
+msgid "Time Taken"
+msgstr "所用时间"
+
+#: php/admin/tools-page.php:194
+msgid "Time"
+msgstr "次数"
+
+#: php/admin/tools-page.php:67
+msgid "There has been an error! Please try again."
+msgstr "此处有一错误！ 请再试一次。"
+
+#: php/admin/options-page-style-tab.php:47
+msgid "The style has been saved successfully."
+msgstr "所选样式已成功保存。"
+
+#: php/admin/quizzes-page.php:240
+msgid "The stats has been reset successfully."
+msgstr "该统计已成功复位。"
+
+#: php/admin/options-page-contact-tab.php:144
+#: php/admin/options-page-text-tab.php:12
+msgid "Text"
+msgstr "文字"
+
+#: php/admin/options-page-questions-tab.php:366
+msgid "Small Text Field"
+msgstr "小文本字段"
+
+#: php/admin/quizzes-page.php:78 php/admin/quizzes-page.php:461
+msgid "Shortcode"
+msgstr "短码"
+
+#: php/admin/admin-results-page.php:341
+msgid "Score"
+msgstr "分数"
+
+#: php/admin/options-page-style-tab.php:223
+#: php/admin/options-page-style-tab.php:240
+msgid "Save Quiz Style"
+msgstr "保存测验风格"
+
+#: php/admin/options-page-results-page-tab.php:19
+msgid "Results Pages"
+msgstr "结果页"
+
+#: php/admin/tools-page.php:108
+msgid "Restore Quiz"
+msgstr "还原测验"
+
+#: php/admin/quizzes-page.php:334
+msgid "Reset All Stats For Quiz"
+msgstr "重置测验的所有统计信息"
+
+#: php/admin/options-page-contact-tab.php:171
+#: php/admin/options-page-questions-tab.php:540
+msgid "Required?"
+msgstr "是否必需？"
+
+#: php/admin/settings-page.php:1222 php/classes/class-qsm-install.php:325
+msgid "Random Questions And Answers"
+msgstr "随机问题和答案"
+
+#: php/admin/settings-page.php:174 php/admin/settings-page.php:1218
+#: php/classes/class-qsm-install.php:317 php/classes/class-qsm-install.php:321
+msgid "Random Questions"
+msgstr "随机问题"
+
+#: php/admin/options-page-style-tab.php:196
+msgid "Quiz Styles"
+msgstr "测验样式"
+
+#: php/admin/admin-results-details-page.php:25
+#: php/admin/admin-results-page.php:21 php/admin/admin-results-page.php:28
+#: php/admin/admin-results-page.php:74
+msgid "Quiz Results"
+msgstr "测验结果"
+
+#: php/admin/admin-results-page.php:300 php/admin/admin-results-page.php:474
+#: php/admin/functions.php:678 php/admin/tools-page.php:193
+msgid "Quiz Name"
+msgstr "测验名称"
+
+#: php/admin/options-page-questions-tab.php:21
+msgid "Questions"
+msgstr "问题"
+
+#: php/admin/options-page-questions-tab.php:471
+msgid "Question Type"
+msgstr "问题类型"
+
+#. translators: %s: table limit
+#: php/admin/tools-page.php:150 php/admin/tools-page.php:181
+msgid "Previous %s Audits"
+msgstr "上一个%s"
+
+#: php/classes/class-qsm-settings.php:348
+msgid "Previous"
+msgstr "上一个"
+
+#: php/admin/quiz-options-page.php:214
+msgid "Please go to the quizzes page and click on the Edit link from the quiz you wish to edit."
+msgstr "请到测验页面，并单击从您要编辑的测验编辑链接。"
+
+#: php/admin/admin-results-page.php:346 php/admin/admin-results-page.php:542
+msgid "Phone"
+msgstr "电话号码"
+
+#: php/admin/options-page-contact-tab.php:147 php/question-types.php:188
+msgid "Number"
+msgstr "号码"
+
+#. translators: %s: table limit
+#: php/admin/tools-page.php:159 php/admin/tools-page.php:170
+msgid "Next %s Audits"
+msgstr "下一个%s"
+
+#: php/admin/quizzes-page.php:356
+msgid "Name Of New Quiz Or Survey:"
+msgstr "输入新测验/调查名称"
+
+#: php/admin/admin-results-page.php:343 php/admin/quiz-options-page.php:232
+#: php/classes/class-qmn-quiz-creator.php:87
+msgid "Name"
+msgstr "名字"
+
+#: php/question-types.php:142
+msgid "Multiple Response"
+msgstr "多选"
+
+#: php/question-types.php:70
+msgid "Multiple Choice"
+msgstr "多选题"
+
+#: php/classes/class-qsm-install.php:1049
+msgid "Message Displayed If User Is Not Logged In And Quiz Requires Users To Be Logged In"
+msgstr "如果用户未登录，显示的消息和测验需要用户登录"
+
+#: php/classes/class-qsm-install.php:1035
+msgid "Message Displayed If User Has Tried Quiz Too Many Times"
+msgstr "如果用户尝试测验太多次则显示的消息"
+
+#: php/classes/class-qsm-install.php:1077
+msgid "Message Displayed If The Limit Of Total Entries Has Been Reached"
+msgstr "如果已达到总条目的限制，则显示消息"
+
+#: php/classes/class-qsm-install.php:1063
+msgid "Message Displayed If Date Is Outside Scheduled Timeframe"
+msgstr "如果日期超出计划时间范围，则显示消息"
+
+#: php/classes/class-qsm-install.php:993
+msgid "Message Displayed Before Quiz"
+msgstr "测验之前显示的消息"
+
+#: php/classes/class-qsm-install.php:1007
+msgid "Message Displayed Before Comments Box If Enabled"
+msgstr "注释前显示的消息（如果启用）"
+
+#: php/classes/class-qsm-install.php:1021
+msgid "Message Displayed At End Of Quiz (Leave Blank To Omit Text Section)"
+msgstr "在测验结束时显示的消息（留空以省略文本部分）"
+
+#: php/admin/quizzes-page.php:82
+msgid "Last Modified"
+msgstr "上一次更改"
+
+#: php/admin/options-page-questions-tab.php:367
+msgid "Large Text Field"
+msgstr "长文本字段"
+
+#: php/classes/class-qmn-quiz-manager.php:364
+#: php/classes/class-qmn-quiz-manager.php:381
+msgid "It appears that this quiz is not set up correctly"
+msgstr "此测验未正确地配置"
+
+#: php/admin/options-page-style-tab.php:228
+msgid "For help and guidance along with a list of different classes used in this plugin, please visit the following link:"
+msgstr "有关详细的帮助，在这个插件使用的不同类别的列表以及指导，请访问以下链接："
+
+#: php/question-types.php:263
+msgid "For fill in the blank types, use %BLANK% to represent where to put the text box in your text."
+msgstr "为了填充空白类型，请使用％BLANK％表示将文本框放在文本中的位置。"
+
+#: php/question-types.php:267
+msgid "Fill In The Blank"
+msgstr "填空题"
+
+#: php/classes/class-qsm-install.php:1149
+msgid "Facebook Sharing Text"
+msgstr "Facebook 分享文本"
+
+#: php/admin/admin-results-page.php:345
+#: php/admin/options-page-contact-tab.php:145
+#: php/classes/class-qmn-quiz-creator.php:89
+msgid "Email"
+msgstr "邮箱"
+
+#: php/admin/quizzes-page.php:158
+msgid "Edit"
+msgstr "编辑"
+
+#: php/admin/quizzes-page.php:353
+msgid "Duplicate questions also?"
+msgstr "重复同样的问题？"
+
+#: php/admin/options-page-contact-tab.php:161 php/admin/quizzes-page.php:159
+#: php/admin/quizzes-page.php:348 php/admin/quizzes-page.php:364
+msgid "Duplicate"
+msgstr "重复"
+
+#: php/question-types.php:118
+msgid "Drop Down"
+msgstr "下拉"
+
+#: php/admin/functions.php:891
+msgid "Displays button to share on Twitter."
+msgstr "显示按钮以在Twitter上共享。"
+
+#: php/admin/functions.php:890
+msgid "Displays button to share on Facebook."
+msgstr "显示按钮以在Facebook上共享。"
+
+#: php/admin/admin-results-page.php:514
+msgid "Delete Results"
+msgstr "删除结果"
+
+#: php/admin/options-page-style-tab.php:227
+msgid "Custom Style CSS"
+msgstr "自定义样式CSS"
+
+#: php/admin/options-page-style-tab.php:217
+msgid "Custom"
+msgstr "自定义"
+
+#: php/admin/functions.php:617
+msgid "Create New Quiz Or Survey"
+msgstr "创建新的测验或调查"
+
+#: php/admin/options-page-questions-tab.php:341
+msgid "Correct Answer Info"
+msgstr "正确答案信息"
+
+#: php/admin/options-page-style-tab.php:197
+msgid "Choose your style:"
+msgstr "选择您的样式："
+
+#: php/question-types.php:229
+msgid "Captcha"
+msgstr "验证码"
+
+#: php/admin/quizzes-page.php:325
+msgid "Are you sure you want to reset the stats to 0? All views and taken stats for this quiz will be reset. This is permanent and cannot be undone."
+msgstr "您确定要将统计信息重置为0吗？ 此测验的所有视图和统计信息将被重置。 这是永久性的，无法撤消。"
+
+#: php/admin/quizzes-page.php:381
+msgid "Are you sure you want to delete this quiz or survey?"
+msgstr "您确定要删除这个调查/测验吗？"
+
+#: php/admin/admin-results-page.php:508
+msgid "Are you sure you want to delete these results?"
+msgstr "您确定要删除这些结果吗？"
+
+#: php/admin/options-page-questions-tab.php:91
+msgid "Answer"
+msgstr "回答"
+
+#: php/admin/options-page-results-page-tab.php:44
+#: php/admin/options-page-results-page-tab.php:50
+msgid "Add New Results Page"
+msgstr "添加新的结果页"
+
+#: php/admin/options-page-questions-tab.php:303
+msgid "Add New Answer!"
+msgstr "添加新答案"
+
+#: mlw_quizmaster2.php:475 php/admin/quizzes-page.php:280
+msgid "Add New"
+msgstr "添加新的"
+
+#: php/admin/tools-page.php:192
+msgid "Action"
+msgstr "操作"
+
+#: php/admin/quizzes-page.php:162
+msgid "Preview"
+msgstr "预览"
+
+#: php/admin/tools-page.php:97
+msgid "Choose a quiz in the drop down and then click the button to restore a deleted quiz."
+msgstr "在下拉菜单中选择一个测验，然后单击按钮以恢复已删除的测验。"
+
+#: php/admin/tools-page.php:91
+msgid "Quiz Has Been Restored!"
+msgstr "测验已恢复！"
+
+#: php/admin/admin-results-page.php:344 php/admin/admin-results-page.php:538
+#: php/classes/class-qmn-quiz-creator.php:88
+msgid "Business"
+msgstr "单位"
+
+#: php/admin/options-page-option-tab.php:14
+msgid "Options"
+msgstr "选项"
+
+#: php/admin/about-page.php:38
+msgid "System Info"
+msgstr "系统信息"
+
+#: mlw_quizmaster2.php:580 mlw_quizmaster2.php:583
+#: php/admin/addons-page.php:113 php/admin/options-page-contact-tab.php:160
+#: php/admin/options-page-contact-tab.php:169
+#: php/admin/quiz-options-page.php:125 php/admin/tools-page.php:245
+msgid "Settings"
+msgstr "设置"
+
+#: php/admin/about-page.php:43
+msgid "Help Page"
+msgstr "帮助页面"
+
+#: php/admin/quiz-options-page.php:128
+msgid "Help"
+msgstr "帮助"
+
+#: php/admin/quiz-options-page.php:213
+#: php/classes/class-qmn-alert-manager.php:39
+msgid "Error!"
+msgstr "错误！"
+
+#: php/classes/class-qmn-alert-manager.php:36
+msgid "Success!"
+msgstr "成功！"
+
+#: php/admin/functions.php:715 php/admin/options-page-questions-tab.php:387
+#: php/admin/options-page-questions-tab.php:399
+#: php/admin/options-page-questions-tab.php:544
+#: php/admin/options-page-questions-tab.php:650 php/admin/settings-page.php:424
+#: php/classes/class-qsm-install.php:152 php/classes/class-qsm-install.php:172
+#: php/classes/class-qsm-install.php:218 php/classes/class-qsm-install.php:237
+#: php/classes/class-qsm-install.php:414 php/classes/class-qsm-install.php:436
+#: php/classes/class-qsm-install.php:457 php/classes/class-qsm-install.php:477
+#: php/classes/class-qsm-install.php:531 php/classes/class-qsm-install.php:553
+#: php/classes/class-qsm-install.php:575 php/classes/class-qsm-install.php:594
+#: php/classes/class-qsm-install.php:614 php/classes/class-qsm-install.php:634
+#: php/classes/class-qsm-install.php:654 php/classes/class-qsm-install.php:700
+#: php/classes/class-qsm-install.php:721 php/classes/class-qsm-install.php:741
+#: php/classes/class-qsm-install.php:762 php/classes/class-qsm-install.php:781
+#: php/classes/class-qsm-install.php:802 php/classes/class-qsm-install.php:822
+#: php/classes/class-qsm-install.php:878 php/classes/class-qsm-install.php:904
+#: php/classes/class-qsm-install.php:929 php/classes/class-qsm-install.php:953
+#: php/classes/class-qsm-install.php:977
+msgid "Yes"
+msgstr "是"
+
+#: php/admin/about-page.php:52
+msgid "Welcome To Quiz And Survey Master (Formerly Quiz Master Next)"
+msgstr "欢迎到测验和调查大师（原下一代测验大师）"
+
+#: php/admin/dashboard-widgets.php:232
+msgid "total active quizzes"
+msgstr "所有有效的测验"
+
+#: php/admin/dashboard-widgets.php:238
+msgid "total active questions"
+msgstr "所有有效的问题"
+
+#: mlw_quizmaster2.php:584 php/admin/tools-page.php:25
+msgid "Tools"
+msgstr "工具"
+
+#: php/admin/functions.php:871
+msgid "The total number of questions in the quiz"
+msgstr "测验中的问题总数"
+
+#: php/classes/class-qsm-fields.php:72
+msgid "The settings has been updated successfully."
+msgstr "问题已成功更新。"
+
+#: php/admin/functions.php:876
+msgid "The phone number the user entered before the quiz"
+msgstr "用户在测验前输入的电话号码"
+
+#: php/admin/functions.php:868
+msgid "The number of correct answers the user had"
+msgstr "用户正确回答的数量"
+
+#: php/admin/functions.php:873
+msgid "The name the user entered before the quiz"
+msgstr "用户在测验前输入的名称"
+
+#: php/admin/functions.php:878
+msgid "The name of the quiz"
+msgstr "测验的名称"
+
+#: php/admin/functions.php:877
+msgid "The email the user entered before the quiz"
+msgstr "用户在测验前输入的电子邮件"
+
+#: php/admin/functions.php:881
+msgid "The comments the user entered into comment box if enabled"
+msgstr "用户输入评论框的注释（如果启用）"
+
+#: php/admin/functions.php:875
+msgid "The business the user entered before the quiz"
+msgstr "用户在测验前输入的单位"
+
+#: php/admin/functions.php:888
+msgid "The average score from all categories."
+msgstr "所有类别的平均分。"
+
+#: php/admin/functions.php:887
+msgid "The average points from all categories."
+msgstr "所有类别的平均点数。"
+
+#: php/admin/functions.php:867
+msgid "The average amount of points user had per question"
+msgstr "用户每个问题的平均分数"
+
+#: php/admin/functions.php:882
+msgid "The amount of time user spent on quiz in seconds"
+msgstr "用户在测验中花费的时间（秒）"
+
+#: php/admin/options-page-email-tab.php:71
+#: php/admin/options-page-results-page-tab.php:60
+msgid "Template Variables"
+msgstr "模板变量"
+
+#: php/classes/class-qsm-install.php:2074
+msgid "Support"
+msgstr "支持"
+
+#: mlw_quizmaster2.php:585
+msgid "Stats"
+msgstr "统计"
+
+#: php/admin/functions.php:880
+msgid "Shows the question, the answer the user provided, and the correct answer"
+msgstr "*显示问题，用户提供的答案和正确答案"
+
+#: php/admin/functions.php:864
+msgid "Score for the quiz when using points"
+msgstr "？使用积分时测验的分数"
+
+#: php/admin/functions.php:872
+msgid "Score for the quiz when using correct answers"
+msgstr "使用正确答案时的测验的分数"
+
+#: mlw_quizmaster2.php:582
+msgid "Result Details"
+msgstr "详细信息"
+
+#: php/admin/dashboard-widgets.php:168
+msgid "quizzes taken today"
+msgstr "今天进行的测验"
+
+#: php/admin/dashboard-widgets.php:184
+msgid "quizzes taken last 7 days"
+msgstr "过去七天进行的测验"
+
+#: php/admin/dashboard-widgets.php:200
+msgid "quizzes taken last 30 days"
+msgstr "过去一个月进行的测验"
+
+#: php/admin/dashboard-widgets.php:216
+msgid "quizzes taken last 120 days"
+msgstr "过去4个月进行的测验"
+
+#: php/admin/dashboard-widgets.php:16
+msgid "Quiz And Survey Master Snapshot"
+msgstr "QSM快照"
+
+#: mlw_quizmaster2.php:409 php/admin/admin-results-page.php:302
+#: php/admin/admin-results-page.php:406 php/admin/admin-results-page.php:408
+#: php/classes/class-qsm-install.php:80
+msgid "Points"
+msgstr "分数"
+
+#: php/admin/admin-dashboard.php:411 php/admin/admin-results-page.php:401
+#: php/admin/admin-results-page.php:410 php/rest-api.php:301
+msgid "Not Graded"
+msgstr "不分等级"
+
+#: php/classes/class-qmn-review-message.php:95
+msgid "No, this plugin is not good enough"
+msgstr "不，这个插件不够好"
+
+#: php/admin/functions.php:719 php/admin/options-page-questions-tab.php:649
+#: php/admin/settings-page.php:429 php/classes/class-qsm-install.php:156
+#: php/classes/class-qsm-install.php:176 php/classes/class-qsm-install.php:222
+#: php/classes/class-qsm-install.php:241 php/classes/class-qsm-install.php:418
+#: php/classes/class-qsm-install.php:440 php/classes/class-qsm-install.php:461
+#: php/classes/class-qsm-install.php:481 php/classes/class-qsm-install.php:535
+#: php/classes/class-qsm-install.php:557 php/classes/class-qsm-install.php:579
+#: php/classes/class-qsm-install.php:598 php/classes/class-qsm-install.php:618
+#: php/classes/class-qsm-install.php:638 php/classes/class-qsm-install.php:658
+#: php/classes/class-qsm-install.php:683 php/classes/class-qsm-install.php:704
+#: php/classes/class-qsm-install.php:725 php/classes/class-qsm-install.php:745
+#: php/classes/class-qsm-install.php:766 php/classes/class-qsm-install.php:785
+#: php/classes/class-qsm-install.php:806 php/classes/class-qsm-install.php:826
+#: php/classes/class-qsm-install.php:882 php/classes/class-qsm-install.php:900
+#: php/classes/class-qsm-install.php:925 php/classes/class-qsm-install.php:949
+#: php/classes/class-qsm-install.php:973
+msgid "No"
+msgstr "否"
+
+#: php/admin/about-page.php:37
+msgid "Need Help?"
+msgstr "需要帮助？"
+
+#: php/admin/about-page.php:136
+msgid "Need help with the plugin? Try any of the following:"
+msgstr "需要帮助插件吗？ 请尝试以下任一操作："
+
+#: php/admin/dashboard-widgets.php:250
+msgid "most popular quiz"
+msgstr "最热门的测验"
+
+#: php/admin/dashboard-widgets.php:262
+msgid "least popular quiz"
+msgstr "最不受欢迎的测验"
+
+#: php/admin/addons-page.php:18 php/admin/addons-page.php:311
+msgid "Featured Addons"
+msgstr "特色插件"
+
+#: php/admin/options-page-email-tab.php:20
+msgid "Emails"
+msgstr "电子邮件"
+
+#: php/classes/class-qsm-install.php:76
+msgid "Correct/Incorrect"
+msgstr "正确/错误"
+
+#: php/admin/addons-page.php:93 php/admin/functions.php:831
+msgid "Browse All Addons"
+msgstr "浏览全部扩展"
+
+#: php/classes/class-qsm-fields.php:426
+msgid "Allowed Variables:"
+msgstr "允许变量："
+
+#: mlw_quizmaster2.php:586
+msgid "Addon Settings"
+msgstr "插件设置"
+
+#: mlw_quizmaster2.php:581
+msgid "Results"
+msgstr "结果"
+
+#: php/admin/admin-dashboard.php:540 php/admin/admin-dashboard.php:544
+msgid "Changelog"
+msgstr "变更日志"

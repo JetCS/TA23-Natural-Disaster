@@ -1,0 +1,1514 @@
+# Translation of Themes - Color Newsmagazine in Chinese (China)
+# This file is distributed under the same license as the Themes - Color Newsmagazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-22 19:43:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Color Newsmagazine\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Color NewsMagazine is a free WordPress theme. It is designed to build a magazine and newspaper website. Its blog design is also suitable for a professional blogger who likes to have multi-variant colors on their website.  A unique feature of this theme is dynamically changeable highlighted color during each loading of your website.  Posts can be filtered by comments number, author, random date and recent date. Demo is here https://postmagthemes.com/democolornewsmagazine/ ."
+msgstr "Color NewsMagazine是一个免费的WordPress主题。它是为建立杂志和报纸网站而设计的。它的博客设计也适用于喜欢在自己的网站上有多变颜色的专业博主。  这个主题的一个独特的功能是在您的网站每次加载时动态地改变高亮的颜色。  文章可以通过评论数、作者、随机日期和最近日期进行过滤。演示在这里 https://postmagthemes.com/democolornewsmagazine/ 。"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Color Newsmagazine"
+msgstr "Color Newsmagazine"
+
+#: inc/customizer/customizer-color.php:127
+#: inc/customizer/customizer-color.php:133
+msgid "Color"
+msgstr "颜色"
+
+#: inc/customizer/themeoptions-panel.php:732
+msgid "Recommended size is 250px by 250px"
+msgstr "推荐的图片大小为250px x 250px。"
+
+#: inc/customizer/themeoptions-panel.php:177
+msgid "The number of words reads per minute"
+msgstr "每分钟读取的字数"
+
+#: inc/customizer/themeoptions-panel.php:80
+msgid "Show Preloader"
+msgstr "显示预加载程序"
+
+#: inc/customizer/big-news-panel.php:29 inc/customizer/main-news-panel.php:710
+#: inc/customizer/themeoptions-panel.php:587
+msgid "Select the below option to show this section in the desired location"
+msgstr "选择以下选项以在所需位置显示此部分"
+
+#: inc/dropdown-category.php:28
+msgid "Among all the categories"
+msgstr "在所有分类中"
+
+#: inc/template-tags.php:55
+msgid "%"
+msgstr "%"
+
+#: inc/template-tags.php:55
+msgid "0"
+msgstr "0"
+
+#: inc/theme-info/about.php:73
+msgid "View the red column to translate it"
+msgstr "查看红色列进行翻译"
+
+#: inc/theme-info/about.php:72
+msgid "Translate this theme in your local language by updating in wordpress.org"
+msgstr "通过在wordpress.org中进行更新，以您的本地语言翻译此主题"
+
+#: inc/customizer/front-layouts/news-layout4.php:300
+#: inc/customizer/front-layouts/news-layout5.php:304
+#: inc/customizer/front-layouts/news-layout5.php:397
+#: inc/customizer/front-layouts/news-layout6.php:285
+#: inc/customizer/front-layouts/news-layout7.php:286
+msgid "Input 1,2,3 etc"
+msgstr "输入1,2,3等"
+
+#: inc/customizer/big-news-panel.php:188 inc/customizer/footer-panel.php:177
+#: inc/customizer/footer-panel.php:287
+#: inc/customizer/front-layouts/news-layout2.php:325
+#: inc/customizer/header-panel.php:489 inc/customizer/main-news-panel.php:145
+#: inc/customizer/main-news-panel.php:323
+#: inc/customizer/main-news-panel.php:519
+#: inc/customizer/main-news-panel.php:692
+#: inc/customizer/themeoptions-panel.php:295
+#: inc/customizer/themeoptions-panel.php:914
+#: inc/customizer/themeoptions-panel.php:1121
+msgid "Input 3,4 etc"
+msgstr "输入3,4等"
+
+#: inc/customizer/big-news-panel.php:89
+msgid "A prior older post to hide if below checkbox is selected"
+msgstr "如果下面的复选框被选中，则隐藏之前的旧文章"
+
+#: inc/customizer/front-layouts/news-layout3.php:185
+msgid "https://www.youtube.com/watch?v=eR7_l-vZKJM"
+msgstr "https://www.youtube.com/watch?v=eR7_l-vZKJM"
+
+#: inc/customizer/front-layouts/news-layout3.php:184
+msgid "Video Url example"
+msgstr "视频网址示例"
+
+#: inc/customizer/customizer.php:91
+msgid "Specific"
+msgstr "特定"
+
+#: inc/customizer/customizer.php:78
+msgid "Generic"
+msgstr "通用"
+
+#: inc/customizer/customizer.php:77 inc/customizer/customizer.php:90
+#: inc/customizer/customizer.php:183 inc/customizer/customizer.php:196
+msgid "View"
+msgstr "查看"
+
+#: inc/customizer/customizer.php:66 inc/theme-info/about.php:33
+msgid "Buy Premium version"
+msgstr "购买高级版"
+
+#: inc/customizer/customizer.php:65
+msgid "Go to Pro"
+msgstr "购买专业版"
+
+#: inc/customizer/customizer.php:56
+msgid "Documents"
+msgstr "文档"
+
+#: inc/customizer/footer-panel.php:327 inc/customizer/header-panel.php:157
+msgid "Example: fas fa-map-pin"
+msgstr "例如：fas fa-map-pin"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:100
+msgid "Theme: %2$s by  %1$s"
+msgstr "主题：%2$s by %1$s"
+
+#: footer.php:96
+msgid "Proudly powered by WordPress"
+msgstr "自豪地采用 WordPress"
+
+#: footer.php:26 inc/customizer/footer-panel.php:202
+msgid "Get in touch"
+msgstr "联系我们"
+
+#: header.php:41
+msgid "Skip to content"
+msgstr "跳至内容"
+
+#: inc/repeater/class-control-repeater.php:443
+#: inc/repeater/class-control-repeater.php:445
+msgid "Change File"
+msgstr "更改文档"
+
+#: inc/repeater/class-control-repeater.php:443
+#: inc/repeater/class-control-repeater.php:447
+msgid "Add File"
+msgstr "添加文档"
+
+#: inc/repeater/class-control-repeater.php:432
+#: inc/repeater/class-control-repeater.php:437
+msgid "No File Selected"
+msgstr "未选择文件"
+
+#: inc/repeater/class-control-repeater.php:407
+#: inc/repeater/class-control-repeater.php:409
+msgid "Change Image"
+msgstr "更换图片"
+
+#: inc/repeater/class-control-repeater.php:407
+#: inc/repeater/class-control-repeater.php:411
+msgid "Add Image"
+msgstr "添加图片"
+
+#: inc/repeater/class-control-repeater.php:406
+#: inc/repeater/class-control-repeater.php:471
+msgid "Remove"
+msgstr "移除"
+
+#: inc/repeater/class-control-repeater.php:396
+#: inc/repeater/class-control-repeater.php:401
+msgid "No Image Selected"
+msgstr "未选择图片"
+
+#: inc/repeater/class-control-repeater.php:371
+msgid "Hex Value"
+msgstr "十六进制值"
+
+#. translators: %s: Limit Number.
+#: inc/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "限制：%s行"
+
+#. translators: %s: Add new Text.
+#: inc/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "添加新 %s"
+
+#: inc/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr "行"
+
+#: inc/customizer/big-news-panel.php:105
+msgid "Enable hiding post older than selected time in an hour in the above settings"
+msgstr "在上述设置中启用隐藏超过一小时内选定时间的文章。"
+
+#: inc/customizer/big-news-panel.php:12 inc/customizer/big-news-panel.php:28
+msgid "Big News section settings"
+msgstr "大新闻栏目设置"
+
+#: inc/customizer/themeoptions-panel.php:1035
+msgid "Enable Block Two section at sidebar"
+msgstr "启用侧边栏的第二区块部分"
+
+#: inc/customizer/themeoptions-panel.php:1004
+msgid "Block Two section settings"
+msgstr "第二区块设置"
+
+#: inc/customizer/themeoptions-panel.php:826
+msgid "Enable Block One section at sidebar"
+msgstr "启用侧边栏的第一区块部分"
+
+#: inc/customizer/themeoptions-panel.php:795
+msgid "Block One section settings"
+msgstr "第一区块设置"
+
+#: inc/customizer/themeoptions-panel.php:760
+msgid "Author social Links"
+msgstr "作者社交链接"
+
+#: inc/customizer/themeoptions-panel.php:730
+msgid "Author image"
+msgstr "作者图片"
+
+#: inc/customizer/themeoptions-panel.php:719
+msgid "Author description"
+msgstr "作者描述"
+
+#: inc/customizer/themeoptions-panel.php:704
+msgid "Site author title"
+msgstr "站点作者标题"
+
+#: inc/customizer/themeoptions-panel.php:689
+msgid "Show site author"
+msgstr "显示站点作者"
+
+#: inc/customizer/themeoptions-panel.php:658
+msgid "Site author settings"
+msgstr "站点作者设置"
+
+#: inc/customizer/themeoptions-panel.php:636
+msgid "Left sidebar"
+msgstr "左侧边栏"
+
+#: inc/customizer/themeoptions-panel.php:635
+msgid "Right sidebar"
+msgstr "右侧边栏"
+
+#: inc/customizer/themeoptions-panel.php:617
+msgid "Show it on single post and page detail"
+msgstr "在单篇文章和页面详情中显示"
+
+#: inc/customizer/themeoptions-panel.php:599
+msgid "Manage content at Sidebar Content section"
+msgstr "管理侧边栏内容部分的内容"
+
+#: inc/customizer/themeoptions-panel.php:598
+msgid "Sidebar Content section"
+msgstr "侧边栏内容部分"
+
+#: inc/customizer/themeoptions-panel.php:586
+#: inc/customizer/themeoptions-panel.php:631
+msgid "Sidebar layout settings"
+msgstr "侧边栏布局设置"
+
+#: inc/customizer/themeoptions-panel.php:567
+msgid "Show author description"
+msgstr "显示作者描述"
+
+#: inc/customizer/themeoptions-panel.php:550
+msgid "Show author email"
+msgstr "显示作者电邮"
+
+#: inc/customizer/themeoptions-panel.php:532
+msgid "Show author detail"
+msgstr "显示作者详情"
+
+#: inc/customizer/themeoptions-panel.php:514
+msgid "Single post author settings"
+msgstr "单篇文章作者设置"
+
+#: inc/customizer/themeoptions-panel.php:489 inc/related-post.php:19
+#: news-layouts/layouts-1.php:144
+msgid "More Stories"
+msgstr "更多故事"
+
+#: inc/customizer/themeoptions-panel.php:481
+msgid "These three posts show the related posts to current post-viewing by tag"
+msgstr "这三个文章按标签显示了与当前浏览的文章相关的文章"
+
+#: inc/customizer/themeoptions-panel.php:480
+msgid "Show related post by tag"
+msgstr "按标签显示相关文章"
+
+#: inc/customizer/themeoptions-panel.php:449
+msgid "Single post related post settings"
+msgstr "单篇文章的相关文章设置"
+
+#: inc/customizer/front-layouts/blog-only.php:159
+#: inc/customizer/front-layouts/news-layout1.php:146
+#: inc/customizer/front-layouts/news-layout2.php:172
+#: inc/customizer/front-layouts/news-layout4.php:161
+#: inc/customizer/front-layouts/news-layout5.php:148
+#: inc/customizer/front-layouts/news-layout6.php:147
+#: inc/customizer/front-layouts/news-layout7.php:147
+#: inc/customizer/main-news-panel.php:174
+#: inc/customizer/main-news-panel.php:352
+#: inc/customizer/themeoptions-panel.php:401
+#: inc/customizer/themeoptions-panel.php:942
+msgid "Show comment number"
+msgstr "显示评论数量"
+
+#: inc/customizer/themeoptions-panel.php:364
+msgid "Show meta detail"
+msgstr "显示元详情"
+
+#: inc/customizer/themeoptions-panel.php:346
+msgid "Single post body settings"
+msgstr "单篇文章主体设置"
+
+#: inc/customizer/themeoptions-panel.php:248
+msgid "This slider shows related posts to current post by category"
+msgstr "这个幻灯片按分类显示与当前文章相关的文章"
+
+#: inc/customizer/themeoptions-panel.php:247
+msgid "Enable Header Slider section"
+msgstr "启用页眉幻灯片部分"
+
+#: inc/customizer/themeoptions-panel.php:229
+msgid "Header Slider section settings"
+msgstr "页眉幻灯片部分设置"
+
+#: inc/customizer/themeoptions-panel.php:198
+msgid "Single post settings"
+msgstr "单篇文章设置"
+
+#: inc/customizer/themeoptions-panel.php:164
+msgid "Text for full view here button"
+msgstr "此处显示全文按钮"
+
+#: inc/customizer/themeoptions-panel.php:146
+msgid "Text for read more button"
+msgstr "阅读更多按钮的文字"
+
+#: inc/customizer/themeoptions-panel.php:128
+msgid "Show for read more popup"
+msgstr "显示 \"阅读更多 \"弹出窗口"
+
+#: inc/customizer/themeoptions-panel.php:109
+msgid "Excerpt Length determines the no of words in short description."
+msgstr "摘要长度决定了简短描述的字数。"
+
+#: inc/customizer/themeoptions-panel.php:108
+msgid "Excerpt Length"
+msgstr "摘要长度"
+
+#: inc/customizer/themeoptions-panel.php:63
+msgid "Show widget placed on Body block section bar area in blog page"
+msgstr "在博客页面中显示放置在主体区块栏区域的小工具"
+
+#: inc/customizer/themeoptions-panel.php:34
+msgid "Other settings"
+msgstr "其他设置"
+
+#: inc/customizer/themeoptions-panel.php:18
+msgid "Theme options"
+msgstr "主题选项"
+
+#: inc/customizer/customizer.php:105 inc/customizer/customizer.php:118
+#: inc/customizer/customizer.php:131 inc/customizer/customizer.php:144
+#: inc/customizer/customizer.php:157 inc/customizer/customizer.php:170
+#: inc/customizer/front-layouts/news-layout3.php:195
+msgid "Video"
+msgstr "视频"
+
+#: inc/customizer/front-layouts/news-layout3.php:189
+#: inc/template-functions.php:403
+msgid "Select page"
+msgstr "选择页面"
+
+#: inc/customizer/front-layouts/news-layout3.php:172
+msgid "Select single video layout items"
+msgstr "选择单个视频布局项目"
+
+#: inc/customizer/front-layouts/news-layout3.php:148
+msgid "Enable single video page layout"
+msgstr "启用单一视频页面布局"
+
+#: inc/customizer/front-layouts/news-layout3.php:124
+msgid "Eg: https://www.youtube.com/embed/yCVOCSlzQno"
+msgstr "Eg: https://www.youtube.com/embed/yCVOCSlzQno"
+
+#: inc/customizer/front-layouts/news-layout3.php:123
+msgid "Featured video Url"
+msgstr "特色视频网址"
+
+#: inc/customizer/front-layouts/news-layout3.php:103
+msgid "Enable Block Three sub section"
+msgstr "启用第三区块子部分"
+
+#: inc/customizer/front-layouts/news-layout4.php:91
+msgid "Enable Block Four sub section"
+msgstr "启用第四区块子部分"
+
+#: inc/customizer/front-layouts/news-layout7.php:77
+msgid "Enable Block Seven sub section"
+msgstr "启用第七区块子部分"
+
+#: inc/customizer/front-layouts/news-layout1.php:76
+msgid "Enable Block One sub section"
+msgstr "启用第一区块子部分"
+
+#: inc/customizer/front-layouts/news-layout1.php:48
+msgid "Select the option to show advertisement at the top of this block section"
+msgstr "选择在该区块的顶部显示广告的选项"
+
+#: inc/customizer/front-layouts/news-layout1.php:16
+msgid " Block One sub section"
+msgstr "第一区块子部分"
+
+#: inc/customizer/front-layouts/blog-only.php:195
+msgid "Show related post"
+msgstr "显示相关文章"
+
+#: inc/customizer/front-layouts/blog-only.php:177
+msgid "Show read more button"
+msgstr "显示阅读更多按钮"
+
+#: inc/customizer/front-layouts/blog-only.php:102
+msgid "Double column with feature"
+msgstr "有特色的双列"
+
+#: inc/customizer/front-layouts/blog-only.php:101
+msgid "List"
+msgstr "列表"
+
+#: inc/customizer/front-layouts/blog-only.php:100
+msgid "Double column"
+msgstr "双列"
+
+#: inc/customizer/front-layouts/blog-only.php:99
+msgid "Single column"
+msgstr "单列"
+
+#: inc/customizer/front-layouts/blog-only.php:95
+msgid "Blog Post section layout types"
+msgstr "博客文章部分的布局类型"
+
+#: inc/customizer/front-layouts/blog-only.php:65
+msgid "Enable Blog Post sub section"
+msgstr "启用博客文章子部分"
+
+#: inc/customizer/front-layouts/news-layout2.php:149
+msgid "Show button"
+msgstr "显示按钮"
+
+#: inc/customizer/front-layouts/news-layout2.php:78
+msgid "Enable Block Two sub section"
+msgstr "启用第二区块子区段"
+
+#: inc/customizer/front-layouts/news-layout5.php:343
+msgid "Title for second column"
+msgstr "第二栏的标题"
+
+#: inc/customizer/front-layouts/news-layout5.php:325
+msgid "Second column post settings"
+msgstr "第二栏文章设置"
+
+#: inc/customizer/front-layouts/news-layout5.php:251
+msgid "Title for first column"
+msgstr "第一栏的标题"
+
+#: inc/customizer/front-layouts/news-layout5.php:233
+msgid "First column post settings"
+msgstr "第一栏文章设置"
+
+#: inc/customizer/front-layouts/news-layout5.php:212
+msgid "Select author for both column post"
+msgstr "为两个栏目的文章选择作者"
+
+#: inc/customizer/front-layouts/news-layout5.php:78
+msgid "Enable Block Five sub section"
+msgstr "启用第五区块子区段"
+
+#: inc/customizer/front-layouts/blog-only.php:122
+#: inc/customizer/front-layouts/news-layout1.php:99
+#: inc/customizer/front-layouts/news-layout2.php:101
+#: inc/customizer/front-layouts/news-layout3.php:176
+#: inc/customizer/front-layouts/news-layout4.php:114
+#: inc/customizer/front-layouts/news-layout5.php:101
+#: inc/customizer/front-layouts/news-layout6.php:100
+#: inc/customizer/front-layouts/news-layout7.php:100
+#: inc/customizer/themeoptions-panel.php:987
+#: inc/customizer/themeoptions-panel.php:1181
+msgid "Show author"
+msgstr "显示作者"
+
+#: inc/customizer/front-layouts/news-layout6.php:77
+msgid "Enable Block Six sub section"
+msgstr "启用第六区块子区段"
+
+#: inc/customizer/front-layouts/blog-only.php:47
+#: inc/customizer/front-layouts/news-layout2.php:50
+#: inc/customizer/front-layouts/news-layout3.php:52
+#: inc/customizer/front-layouts/news-layout4.php:49
+#: inc/customizer/front-layouts/news-layout5.php:50
+#: inc/customizer/front-layouts/news-layout6.php:49
+#: inc/customizer/front-layouts/news-layout7.php:49
+msgid "Select option to show advertisement at the top of this block section"
+msgstr "选择选项，在该区块的顶部显示广告"
+
+#: inc/customizer/front-panel.php:265
+msgid "Select sub section to appear in eight position"
+msgstr "选择要出现在第八个位置的子区段"
+
+#: inc/customizer/front-panel.php:237
+msgid "Select sub section to appear in seventh position"
+msgstr "选择要出现在第七个位置的子区段"
+
+#: inc/customizer/front-panel.php:208
+msgid "Select sub section to appear in sixth position"
+msgstr "选择要出现在第六个位置的子区段"
+
+#: inc/customizer/front-panel.php:179
+msgid "Select sub section to appear in fifth position"
+msgstr "选择要出现在第五个位置的子区段"
+
+#: inc/customizer/front-panel.php:151
+msgid "Select sub section to appear in fourth position"
+msgstr "选择要出现在第四个位置的子区段"
+
+#: inc/customizer/front-panel.php:123
+msgid "Select sub section to appear in third position"
+msgstr "选择要出现在第三个位置的子区段"
+
+#: inc/customizer/front-panel.php:96
+msgid "Select sub section to appear in second position"
+msgstr "选择要出现在第二个位置的子区段"
+
+#: inc/customizer/front-layouts/blog-only.php:15
+#: inc/customizer/front-panel.php:81 inc/customizer/front-panel.php:108
+#: inc/customizer/front-panel.php:135 inc/customizer/front-panel.php:163
+#: inc/customizer/front-panel.php:191 inc/customizer/front-panel.php:220
+#: inc/customizer/front-panel.php:249 inc/customizer/front-panel.php:276
+msgid "Block Blog Post sub section"
+msgstr "屏蔽博客文章子栏目"
+
+#: inc/customizer/front-layouts/news-layout7.php:16
+#: inc/customizer/front-panel.php:80 inc/customizer/front-panel.php:107
+#: inc/customizer/front-panel.php:134 inc/customizer/front-panel.php:162
+#: inc/customizer/front-panel.php:190 inc/customizer/front-panel.php:219
+#: inc/customizer/front-panel.php:248 inc/customizer/front-panel.php:275
+msgid "Block Seven sub section"
+msgstr "第七区块子区段"
+
+#: inc/customizer/front-layouts/news-layout6.php:16
+#: inc/customizer/front-panel.php:79 inc/customizer/front-panel.php:106
+#: inc/customizer/front-panel.php:133 inc/customizer/front-panel.php:161
+#: inc/customizer/front-panel.php:189 inc/customizer/front-panel.php:218
+#: inc/customizer/front-panel.php:247 inc/customizer/front-panel.php:274
+msgid "Block Six sub section"
+msgstr "第六区块子区段"
+
+#: inc/customizer/front-layouts/news-layout5.php:16
+#: inc/customizer/front-panel.php:78 inc/customizer/front-panel.php:105
+#: inc/customizer/front-panel.php:132 inc/customizer/front-panel.php:160
+#: inc/customizer/front-panel.php:188 inc/customizer/front-panel.php:217
+#: inc/customizer/front-panel.php:246 inc/customizer/front-panel.php:273
+msgid "Block Five sub section"
+msgstr "第五区块子区段"
+
+#: inc/customizer/front-layouts/news-layout4.php:16
+#: inc/customizer/front-panel.php:77 inc/customizer/front-panel.php:104
+#: inc/customizer/front-panel.php:131 inc/customizer/front-panel.php:159
+#: inc/customizer/front-panel.php:187 inc/customizer/front-panel.php:216
+#: inc/customizer/front-panel.php:245 inc/customizer/front-panel.php:272
+msgid "Block Four sub section"
+msgstr "第四区块子区段"
+
+#: inc/customizer/front-layouts/news-layout3.php:17
+#: inc/customizer/front-panel.php:76 inc/customizer/front-panel.php:103
+#: inc/customizer/front-panel.php:130 inc/customizer/front-panel.php:158
+#: inc/customizer/front-panel.php:186 inc/customizer/front-panel.php:215
+#: inc/customizer/front-panel.php:244 inc/customizer/front-panel.php:271
+msgid "Block Three sub section"
+msgstr "第三区块子区段"
+
+#: inc/customizer/front-layouts/news-layout2.php:16
+#: inc/customizer/front-panel.php:75 inc/customizer/front-panel.php:102
+#: inc/customizer/front-panel.php:129 inc/customizer/front-panel.php:157
+#: inc/customizer/front-panel.php:185 inc/customizer/front-panel.php:214
+#: inc/customizer/front-panel.php:243 inc/customizer/front-panel.php:270
+msgid "Block Two sub section"
+msgstr "第二区块子区段"
+
+#: inc/customizer/front-panel.php:74 inc/customizer/front-panel.php:101
+#: inc/customizer/front-panel.php:128 inc/customizer/front-panel.php:156
+#: inc/customizer/front-panel.php:184 inc/customizer/front-panel.php:213
+#: inc/customizer/front-panel.php:242 inc/customizer/front-panel.php:269
+msgid "Block One sub section"
+msgstr "第一区块子区段"
+
+#: inc/customizer/front-panel.php:73 inc/customizer/front-panel.php:100
+#: inc/customizer/front-panel.php:127 inc/customizer/front-panel.php:155
+#: inc/customizer/front-panel.php:183 inc/customizer/front-panel.php:212
+#: inc/customizer/front-panel.php:241 inc/customizer/front-panel.php:268
+msgid "Hide"
+msgstr "隐藏"
+
+#: inc/customizer/front-panel.php:69
+msgid "Select sub section to appear in first position"
+msgstr "选择要出现在第一位置的子区段"
+
+#: inc/customizer/front-panel.php:54
+msgid "Use the below selection to change the order of appearance of different block subsections in the body block section. Note:- Same block subsection can not be used at two places. If it is repeated then only the first selected block will be shown"
+msgstr "使用下面的选择来改变主体块区段中不同的块子区段的出现顺序。注意:- 同一个区块分段不能在两个地方使用。如果它被重复使用，那么只有第一个被选中的块会被显示。"
+
+#: inc/customizer/front-panel.php:53
+msgid "Block sub section ordering"
+msgstr "块状子区段排序"
+
+#: inc/customizer/front-panel.php:24
+msgid "Body block section settings"
+msgstr "体块区段的设置"
+
+#: inc/customizer/footer-panel.php:322
+msgid "Bottom footer contact items"
+msgstr "底部页脚联系项目"
+
+#: inc/customizer/footer-panel.php:242
+msgid "Enable Footer News section"
+msgstr "启用页脚新闻区段"
+
+#: inc/customizer/footer-panel.php:193
+msgid "Show Location and Social link section"
+msgstr "显示位置和社会链接区段"
+
+#: inc/customizer/footer-panel.php:95
+msgid "Enable Footer Slider section"
+msgstr "启用页脚滑块区段"
+
+#: inc/customizer/footer-panel.php:57
+msgid "Manage content of Footer news section at the footer"
+msgstr "管理页脚新闻区段的内容"
+
+#: inc/customizer/footer-panel.php:56
+msgid "Footer News section"
+msgstr "页脚新闻区段"
+
+#: inc/customizer/footer-panel.php:46
+msgid "Manage content of Footer Slider section at the footer"
+msgstr "管理页脚滑块区段的内容"
+
+#: inc/customizer/footer-panel.php:45
+msgid "Footer Slider section"
+msgstr "页脚滑块区段"
+
+#: inc/customizer/footer-panel.php:35
+msgid "Manage content of Location and Social link section at the footer"
+msgstr "管理页脚的位置和社会链接区段的内容"
+
+#: inc/customizer/footer-panel.php:34
+msgid "Location and Social link setting"
+msgstr "位置和社会链接设置"
+
+#: inc/customizer/footer-panel.php:23
+msgid "Footer section settings"
+msgstr "页脚区段的设置"
+
+#: inc/customizer/customizer-color.php:206
+msgid "Different but static"
+msgstr "不同的但却是静态的"
+
+#: inc/customizer/customizer-color.php:205
+msgid "Different dynamically change"
+msgstr "不同的动态变化"
+
+#: inc/customizer/customizer-color.php:204
+msgid "Same as primary theme color"
+msgstr "与主主题颜色相同"
+
+#: inc/customizer/customizer-color.php:202
+msgid "Secondary theme color is a color that is shown as a vertical or horizontal highlighted line"
+msgstr "二级主题色是指以垂直或水平高亮线显示的颜色"
+
+#: inc/customizer/customizer-color.php:199
+msgid "Select secondary theme color settings."
+msgstr "选择二级主题颜色设置。"
+
+#: inc/customizer/customizer-color.php:179
+msgid "Theme text color"
+msgstr "主题文字颜色"
+
+#: inc/customizer/customizer-color.php:164
+msgid "Primary theme color"
+msgstr "主题主色"
+
+#: inc/customizer/customizer-color.php:149
+msgid "Theme color settings"
+msgstr "主题颜色设置"
+
+#: inc/customizer/customizer-color.php:94
+msgid "Hot news background color"
+msgstr "热点新闻背景色"
+
+#: inc/customizer/customizer-color.php:80
+msgid "Top address background color"
+msgstr "顶部地址的背景颜色"
+
+#: inc/customizer/customizer-color.php:67
+msgid "Site title background color"
+msgstr "网站标题的背景颜色"
+
+#: inc/customizer/customizer-color.php:54
+msgid "Menu background color"
+msgstr "菜单背景颜色"
+
+#: inc/customizer/customizer-color.php:42
+msgid "Header section background color settings"
+msgstr "页眉区段的背景颜色设置"
+
+#: inc/customizer/customizer-color.php:26
+msgid "Main background color"
+msgstr "主要背景颜色"
+
+#: inc/customizer/customizer-color.php:13
+#: inc/customizer/customizer-color.php:19
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: inc/customizer/big-news-panel.php:64 inc/customizer/main-news-panel.php:739
+msgid "Show it in all the places"
+msgstr "在所有的地方展示它"
+
+#: inc/customizer/main-news-panel.php:709
+msgid "Main News layout"
+msgstr "主要新闻版面"
+
+#: inc/customizer/main-news-panel.php:590
+msgid "Manage content at Main News Central Lower Slider section."
+msgstr "管理主新闻中心下滑块区段的内容。"
+
+#: inc/customizer/main-news-panel.php:589
+msgid "Main News Central Lower Slider section"
+msgstr "主要的新闻中心下部滑块区段"
+
+#. translators: %s: Label
+#: inc/customizer/main-news-panel.php:534
+msgid "Show %s"
+msgstr "显示%s"
+
+#: inc/customizer/main-news-panel.php:524 sections/section-main-news.php:155
+msgid "comments"
+msgstr "评论"
+
+#: inc/customizer/main-news-panel.php:524 sections/section-main-news.php:142
+msgid "author"
+msgstr "作者"
+
+#: inc/customizer/main-news-panel.php:524 sections/section-main-news.php:149
+msgid "date"
+msgstr "日期"
+
+#: inc/customizer/main-news-panel.php:524 sections/section-main-news.php:133
+msgid "category"
+msgstr "分类"
+
+#: inc/customizer/main-news-panel.php:433
+msgid "Image size minimum (1440px X 800px)"
+msgstr "图片尺寸最小（1440px X 800px）。"
+
+#: inc/customizer/front-layouts/news-layout4.php:69
+#: inc/customizer/main-news-panel.php:432
+msgid "Background image"
+msgstr "背景图像"
+
+#: inc/customizer/main-news-panel.php:404
+msgid "Manage content at Main News Slider section."
+msgstr "管理主新闻滑块区段的内容。"
+
+#: inc/customizer/main-news-panel.php:403
+msgid "Main News Central Upper Slider section"
+msgstr "主要的新闻中心上部滑块区段"
+
+#: inc/customizer/big-news-panel.php:174 inc/customizer/footer-panel.php:163
+#: inc/customizer/main-news-panel.php:307
+#: inc/customizer/main-news-panel.php:503
+#: inc/customizer/main-news-panel.php:678
+msgid "Select post author"
+msgstr "选择文章作者"
+
+#: inc/customizer/main-news-panel.php:225
+msgid "Manage content at Main News Right Sidebar section."
+msgstr "管理主新闻右侧边栏区段的内容。"
+
+#: inc/customizer/main-news-panel.php:224
+msgid "Main News Right Sidebar section"
+msgstr "主要新闻的右侧边栏区段"
+
+#: inc/customizer/front-layouts/blog-only.php:211
+#: inc/customizer/front-layouts/news-layout1.php:194
+#: inc/customizer/front-layouts/news-layout2.php:219
+#: inc/customizer/front-layouts/news-layout4.php:209
+#: inc/customizer/front-layouts/news-layout5.php:196
+#: inc/customizer/front-layouts/news-layout6.php:194
+#: inc/customizer/front-layouts/news-layout7.php:196
+#: inc/customizer/main-news-panel.php:206
+#: inc/customizer/main-news-panel.php:383
+#: inc/customizer/main-news-panel.php:552
+#: inc/customizer/themeoptions-panel.php:415
+#: inc/customizer/themeoptions-panel.php:973
+#: inc/customizer/themeoptions-panel.php:1166
+msgid "Show time ago"
+msgstr "显示时间前"
+
+#: inc/customizer/front-layouts/blog-only.php:228
+#: inc/customizer/front-layouts/news-layout1.php:169
+#: inc/customizer/front-layouts/news-layout2.php:195
+#: inc/customizer/front-layouts/news-layout4.php:184
+#: inc/customizer/front-layouts/news-layout5.php:171
+#: inc/customizer/front-layouts/news-layout6.php:169
+#: inc/customizer/front-layouts/news-layout7.php:171
+#: inc/customizer/main-news-panel.php:190
+#: inc/customizer/main-news-panel.php:367
+#: inc/customizer/main-news-panel.php:568
+#: inc/customizer/themeoptions-panel.php:329
+#: inc/customizer/themeoptions-panel.php:431
+#: inc/customizer/themeoptions-panel.php:957
+#: inc/customizer/themeoptions-panel.php:1150
+msgid "Show reading time"
+msgstr "阅读时间"
+
+#: inc/customizer/big-news-panel.php:118 inc/customizer/footer-panel.php:112
+#: inc/customizer/footer-panel.php:209 inc/customizer/footer-panel.php:273
+#: inc/customizer/footer-panel.php:332
+#: inc/customizer/front-layouts/blog-only.php:80
+#: inc/customizer/front-layouts/news-layout1.php:234
+#: inc/customizer/front-layouts/news-layout2.php:238
+#: inc/customizer/front-layouts/news-layout3.php:80
+#: inc/customizer/front-layouts/news-layout4.php:227
+#: inc/customizer/front-layouts/news-layout6.php:212
+#: inc/customizer/front-layouts/news-layout7.php:214
+#: inc/customizer/header-panel.php:419 inc/customizer/main-news-panel.php:75
+#: inc/customizer/main-news-panel.php:253
+#: inc/customizer/main-news-panel.php:449
+#: inc/customizer/main-news-panel.php:624
+#: inc/customizer/themeoptions-panel.php:260
+#: inc/customizer/themeoptions-panel.php:498
+#: inc/customizer/themeoptions-panel.php:842
+#: inc/customizer/themeoptions-panel.php:1051
+msgid "Title"
+msgstr "标题"
+
+#: inc/customizer/main-news-panel.php:46
+msgid "Manage content at Main News Left Sidebar section."
+msgstr "管理主新闻左侧边栏区段的内容。"
+
+#: inc/customizer/main-news-panel.php:45
+msgid "Main News Left Sidebar section"
+msgstr "主要新闻左侧边栏区段"
+
+#: inc/customizer/main-news-panel.php:26
+msgid "Main News section settings"
+msgstr "主要新闻栏目设置"
+
+#: inc/customizer/big-news-panel.php:187 inc/customizer/footer-panel.php:176
+#: inc/customizer/footer-panel.php:286
+#: inc/customizer/front-layouts/news-layout1.php:305
+#: inc/customizer/front-layouts/news-layout2.php:324
+#: inc/customizer/front-layouts/news-layout4.php:299
+#: inc/customizer/front-layouts/news-layout5.php:303
+#: inc/customizer/front-layouts/news-layout5.php:396
+#: inc/customizer/front-layouts/news-layout6.php:284
+#: inc/customizer/front-layouts/news-layout7.php:285
+#: inc/customizer/header-panel.php:488 inc/customizer/main-news-panel.php:144
+#: inc/customizer/main-news-panel.php:322
+#: inc/customizer/main-news-panel.php:518
+#: inc/customizer/main-news-panel.php:691
+#: inc/customizer/themeoptions-panel.php:294
+#: inc/customizer/themeoptions-panel.php:913
+#: inc/customizer/themeoptions-panel.php:1120
+msgid "Maximum number of posts to show"
+msgstr "要显示的最大文章数"
+
+#: inc/customizer/front-layouts/news-layout1.php:291
+#: inc/customizer/front-layouts/news-layout2.php:279
+#: inc/customizer/front-layouts/news-layout4.php:285
+#: inc/customizer/front-layouts/news-layout6.php:269
+#: inc/customizer/front-layouts/news-layout7.php:271
+#: inc/customizer/header-panel.php:475 inc/customizer/main-news-panel.php:131
+#: inc/customizer/themeoptions-panel.php:900
+#: inc/customizer/themeoptions-panel.php:1107
+msgid "Select author"
+msgstr "选择作者"
+
+#: inc/customizer/big-news-panel.php:158 inc/customizer/footer-panel.php:148
+#: inc/customizer/front-layouts/news-layout1.php:273
+#: inc/customizer/front-layouts/news-layout2.php:311
+#: inc/customizer/front-layouts/news-layout4.php:266
+#: inc/customizer/front-layouts/news-layout5.php:289
+#: inc/customizer/front-layouts/news-layout5.php:380
+#: inc/customizer/front-layouts/news-layout6.php:251
+#: inc/customizer/front-layouts/news-layout7.php:253
+#: inc/customizer/header-panel.php:459 inc/customizer/main-news-panel.php:115
+#: inc/customizer/main-news-panel.php:290
+#: inc/customizer/main-news-panel.php:486
+#: inc/customizer/main-news-panel.php:661
+#: inc/customizer/themeoptions-panel.php:882
+#: inc/customizer/themeoptions-panel.php:1091
+msgid "Select category"
+msgstr "选择分类"
+
+#: inc/customizer/big-news-panel.php:141 inc/customizer/footer-panel.php:133
+#: inc/customizer/front-layouts/news-layout1.php:257
+#: inc/customizer/front-layouts/news-layout2.php:262
+#: inc/customizer/front-layouts/news-layout4.php:250
+#: inc/customizer/front-layouts/news-layout5.php:273
+#: inc/customizer/front-layouts/news-layout5.php:365
+#: inc/customizer/front-layouts/news-layout6.php:235
+#: inc/customizer/front-layouts/news-layout7.php:237
+#: inc/customizer/header-panel.php:442 inc/customizer/main-news-panel.php:98
+#: inc/customizer/main-news-panel.php:274
+#: inc/customizer/main-news-panel.php:469
+#: inc/customizer/main-news-panel.php:644
+#: inc/customizer/themeoptions-panel.php:281
+#: inc/customizer/themeoptions-panel.php:865
+#: inc/customizer/themeoptions-panel.php:1074
+msgid "Random"
+msgstr "随机"
+
+#: inc/customizer/big-news-panel.php:140 inc/customizer/footer-panel.php:132
+#: inc/customizer/front-layouts/news-layout1.php:256
+#: inc/customizer/front-layouts/news-layout2.php:261
+#: inc/customizer/front-layouts/news-layout4.php:249
+#: inc/customizer/front-layouts/news-layout5.php:272
+#: inc/customizer/front-layouts/news-layout5.php:364
+#: inc/customizer/front-layouts/news-layout6.php:234
+#: inc/customizer/front-layouts/news-layout7.php:236
+#: inc/customizer/header-panel.php:441 inc/customizer/main-news-panel.php:97
+#: inc/customizer/main-news-panel.php:273
+#: inc/customizer/main-news-panel.php:468
+#: inc/customizer/main-news-panel.php:643
+#: inc/customizer/themeoptions-panel.php:280
+#: inc/customizer/themeoptions-panel.php:864
+#: inc/customizer/themeoptions-panel.php:1073
+msgid "Comment count"
+msgstr "评论数"
+
+#: inc/customizer/big-news-panel.php:139 inc/customizer/footer-panel.php:131
+#: inc/customizer/front-layouts/news-layout1.php:255
+#: inc/customizer/front-layouts/news-layout2.php:260
+#: inc/customizer/front-layouts/news-layout4.php:248
+#: inc/customizer/front-layouts/news-layout5.php:271
+#: inc/customizer/front-layouts/news-layout5.php:363
+#: inc/customizer/front-layouts/news-layout6.php:233
+#: inc/customizer/front-layouts/news-layout7.php:235
+#: inc/customizer/header-panel.php:440 inc/customizer/main-news-panel.php:96
+#: inc/customizer/main-news-panel.php:272
+#: inc/customizer/main-news-panel.php:467
+#: inc/customizer/main-news-panel.php:642
+#: inc/customizer/themeoptions-panel.php:279
+#: inc/customizer/themeoptions-panel.php:863
+#: inc/customizer/themeoptions-panel.php:1072
+msgid "Recent publish date"
+msgstr "最近的出版日期"
+
+#: inc/customizer/big-news-panel.php:134 inc/customizer/footer-panel.php:126
+#: inc/customizer/front-layouts/news-layout1.php:250
+#: inc/customizer/front-layouts/news-layout2.php:255
+#: inc/customizer/front-layouts/news-layout4.php:243
+#: inc/customizer/front-layouts/news-layout5.php:266
+#: inc/customizer/front-layouts/news-layout5.php:358
+#: inc/customizer/front-layouts/news-layout6.php:228
+#: inc/customizer/front-layouts/news-layout7.php:230
+#: inc/customizer/header-panel.php:435 inc/customizer/main-news-panel.php:92
+#: inc/customizer/main-news-panel.php:268
+#: inc/customizer/main-news-panel.php:463
+#: inc/customizer/main-news-panel.php:638
+#: inc/customizer/themeoptions-panel.php:275
+#: inc/customizer/themeoptions-panel.php:859
+#: inc/customizer/themeoptions-panel.php:1068
+msgid "Select chronological order"
+msgstr "选择按时间顺序排列"
+
+#: inc/customizer/header-panel.php:406
+msgid "Enable Hot News section"
+msgstr "启用热点新闻部分"
+
+#: inc/customizer/header-panel.php:384
+msgid "Manage content at Hot News section."
+msgstr "管理热点新闻栏目的内容。"
+
+#: inc/customizer/header-panel.php:383
+msgid "Hot News section"
+msgstr "热点新闻区段"
+
+#: inc/customizer/header-panel.php:360
+msgid "Select option to show advertisement above main news section"
+msgstr "选择选项，在主要新闻部分上方显示广告"
+
+#: inc/customizer/header-panel.php:338
+msgid "Select the option to show an advertisement on the right side of the site title"
+msgstr "选择在站点标题右侧显示广告的选项"
+
+#: inc/customizer/front-layouts/blog-only.php:51
+#: inc/customizer/front-layouts/news-layout1.php:52
+#: inc/customizer/front-layouts/news-layout2.php:54
+#: inc/customizer/front-layouts/news-layout3.php:56
+#: inc/customizer/front-layouts/news-layout4.php:53
+#: inc/customizer/front-layouts/news-layout5.php:54
+#: inc/customizer/front-layouts/news-layout6.php:53
+#: inc/customizer/front-layouts/news-layout7.php:53
+#: inc/customizer/header-panel.php:320 inc/customizer/header-panel.php:342
+#: inc/customizer/header-panel.php:364
+msgid "First advertisement bar"
+msgstr "第一广告栏"
+
+#: inc/customizer/front-layouts/blog-only.php:50
+#: inc/customizer/front-layouts/news-layout1.php:51
+#: inc/customizer/front-layouts/news-layout2.php:53
+#: inc/customizer/front-layouts/news-layout3.php:55
+#: inc/customizer/front-layouts/news-layout4.php:52
+#: inc/customizer/front-layouts/news-layout5.php:53
+#: inc/customizer/front-layouts/news-layout6.php:52
+#: inc/customizer/front-layouts/news-layout7.php:52
+#: inc/customizer/header-panel.php:319 inc/customizer/header-panel.php:341
+#: inc/customizer/header-panel.php:363
+msgid "None"
+msgstr "未选择"
+
+#: inc/customizer/header-panel.php:316
+msgid "Here, First advertisement bar is a widget area. Please add HTML or Image widget in this bar from admin menu"
+msgstr "在这里，第一个广告栏是一个小工具区域。请从管理菜单中为这个栏添加HTML或图片小工具。"
+
+#: inc/customizer/header-panel.php:315
+msgid "Select the option to show advertisement above the menu section"
+msgstr "选择在菜单部分上方显示广告的选项"
+
+#: inc/customizer/header-panel.php:291
+msgid "Manage content in the Advertisement section of the header"
+msgstr "管理页眉的广告区段的内容"
+
+#: inc/customizer/header-panel.php:290
+msgid "Header Advertisement section"
+msgstr "页眉广告区段"
+
+#: inc/customizer/footer-panel.php:398 inc/customizer/header-panel.php:268
+#: inc/customizer/themeoptions-panel.php:775
+msgid "social"
+msgstr "社交"
+
+#: inc/customizer/footer-panel.php:393 inc/customizer/header-panel.php:263
+#: inc/customizer/themeoptions-panel.php:770
+msgid "Example: http://facebook.com"
+msgstr "例如：http://facebook.com"
+
+#: inc/customizer/footer-panel.php:392 inc/customizer/header-panel.php:262
+#: inc/customizer/themeoptions-panel.php:769
+msgid "Link"
+msgstr "链接"
+
+#: inc/customizer/footer-panel.php:388 inc/customizer/header-panel.php:258
+#: inc/customizer/themeoptions-panel.php:765
+msgid "Example: fab fa-facebook"
+msgstr "例子: fab fa-facebook"
+
+#: inc/customizer/footer-panel.php:383 inc/customizer/header-panel.php:253
+msgid "Social Links"
+msgstr "社交链接"
+
+#: inc/customizer/header-panel.php:209
+msgid "Show social links"
+msgstr "显示链接"
+
+#: inc/customizer/header-panel.php:188
+msgid "Manage social link display on the top"
+msgstr "管理社交链接在顶部的显示"
+
+#: inc/customizer/header-panel.php:187
+msgid "Top Social section"
+msgstr "顶级社交区段"
+
+#: inc/customizer/footer-panel.php:337 inc/customizer/header-panel.php:167
+msgid "contact"
+msgstr "偶有联系"
+
+#: inc/customizer/header-panel.php:162
+msgid "Location Title"
+msgstr "位置标题"
+
+#: inc/customizer/footer-panel.php:326 inc/customizer/footer-panel.php:387
+#: inc/customizer/header-panel.php:156 inc/customizer/header-panel.php:257
+#: inc/customizer/themeoptions-panel.php:764
+msgid "Font Awesome Icon"
+msgstr "Font Awesome 图标"
+
+#: inc/customizer/header-panel.php:152
+msgid "Top Header Contact items"
+msgstr "页首联系项目"
+
+#: inc/customizer/footer-panel.php:308 inc/customizer/header-panel.php:138
+msgid "International Paper"
+msgstr "国际纸业"
+
+#: inc/customizer/footer-panel.php:304 inc/customizer/header-panel.php:134
+msgid "Toll Free 1660-6767-8909"
+msgstr "免费电话：1660-6767-8909"
+
+#: inc/customizer/footer-panel.php:300 inc/customizer/header-panel.php:130
+msgid "Bnews24, New York"
+msgstr "Bnews24, 纽约"
+
+#: inc/customizer/header-panel.php:115
+msgid "Show address"
+msgstr "显示地址"
+
+#: inc/customizer/footer-panel.php:259
+#: inc/customizer/front-layouts/blog-only.php:141
+#: inc/customizer/front-layouts/news-layout1.php:123
+#: inc/customizer/front-layouts/news-layout2.php:125
+#: inc/customizer/front-layouts/news-layout3.php:180
+#: inc/customizer/front-layouts/news-layout4.php:138
+#: inc/customizer/front-layouts/news-layout5.php:125
+#: inc/customizer/front-layouts/news-layout6.php:124
+#: inc/customizer/front-layouts/news-layout7.php:124
+#: inc/customizer/header-panel.php:93 inc/customizer/main-news-panel.php:159
+#: inc/customizer/main-news-panel.php:337
+#: inc/customizer/themeoptions-panel.php:315
+#: inc/customizer/themeoptions-panel.php:383
+#: inc/customizer/themeoptions-panel.php:928
+#: inc/customizer/themeoptions-panel.php:1135
+msgid "Show date"
+msgstr "显示日期"
+
+#: inc/customizer/header-panel.php:70
+msgid "Enable Top Address and Date section"
+msgstr "启用顶部地址和日期区段"
+
+#: inc/customizer/header-panel.php:49
+msgid "Manage content at Top Address and Date section"
+msgstr "管理顶部地址和日期区段的内容"
+
+#: inc/customizer/header-panel.php:48
+msgid "Top Address and Date section"
+msgstr "顶部的地址和日期区段"
+
+#: inc/customizer/header-panel.php:31
+msgid "Header settings"
+msgstr "页眉设置"
+
+#: inc/customizer/header-panel.php:17
+msgid "Header Image"
+msgstr "页眉图像"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:67
+msgid "Tagged %1$s "
+msgstr "标签：%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:64
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:55
+msgid "1"
+msgstr "1"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:39
+msgctxt "post author"
+msgid "by %s"
+msgstr "作者 %s"
+
+#: inc/breadcrumbs.php:778
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumbs.php:750 inc/breadcrumbs.php:1180
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumbs.php:749 inc/breadcrumbs.php:805 inc/breadcrumbs.php:1176
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumbs.php:748 inc/breadcrumbs.php:777 inc/breadcrumbs.php:804
+#: inc/breadcrumbs.php:831 inc/breadcrumbs.php:1172
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumbs.php:732
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumbs.php:715
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumbs.php:698
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:246
+msgid "Week %s"
+msgstr "%s周"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:244
+msgid "Minute %s"
+msgstr "%s分钟"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:242
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumbs.php:240
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221;的搜索结果"
+
+#: inc/breadcrumbs.php:238
+msgid "Archives"
+msgstr "归档"
+
+#: inc/breadcrumbs.php:237
+msgid "404 Not Found"
+msgstr "404 未发现页面"
+
+#: inc/breadcrumbs.php:236
+msgid "Home"
+msgstr "首页"
+
+#: inc/breadcrumbs.php:235
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "面包屑"
+
+#: inc/breadcrumbs.php:234
+msgid "Browse:"
+msgstr "浏览："
+
+#: inc/dropdown-author.php:27
+msgid "All authors"
+msgstr "所有作者"
+
+#: inc/theme-info/about.php:99 inc/theme-info/about.php:101
+msgid "Contact Support"
+msgstr "获取支持"
+
+#: inc/theme-info/about.php:87
+msgid "Please install the PostmagThemes Demo Import plugin to import the demo content. After activation go to Appearance >> Import Demo Data and import it."
+msgstr "请安装PostmagThemes Demo Import插件来导入演示内容。激活后进入外观>>导入演示数据并导入。"
+
+#: inc/theme-info/about.php:86
+msgid "PostmagThemes Demo Import"
+msgstr "PostmagThemes演示导入"
+
+#: inc/theme-info/about.php:65
+msgid "Go to Customizer"
+msgstr "转到定制器"
+
+#: inc/theme-info/about.php:64
+msgid "Customize Everything"
+msgstr "自定义所有内容"
+
+#: inc/theme-info/about.php:57
+msgid "Check recommended actions"
+msgstr "检查建议的操作"
+
+#: inc/theme-info/about.php:56
+msgid "We recommend few steps to take so that you can get a complete site like shown in the demo."
+msgstr "我们建议采取几个步骤，以便您能得到一个像演示中所示的完整的网站。"
+
+#: inc/customizer/customizer.php:104 inc/customizer/customizer.php:117
+#: inc/customizer/customizer.php:130 inc/customizer/customizer.php:143
+#: inc/customizer/customizer.php:156 inc/customizer/customizer.php:169
+#: inc/customizer/customizer.php:182 inc/customizer/customizer.php:195
+#: inc/theme-info/about.php:29 inc/theme-info/about.php:49
+#: inc/theme-info/about.php:109
+msgid "View documentation"
+msgstr "查看文档"
+
+#: inc/theme-info/about.php:48
+msgid "Find step-by-step instructions to set up the theme easily."
+msgstr "找到分步说明，轻松设置主题。"
+
+#: inc/theme-info/about.php:107
+msgid "Theme Documentation"
+msgstr "主题文档"
+
+#: inc/theme-info/about.php:42
+msgid "Support"
+msgstr "支持"
+
+#: inc/theme-info/about.php:41
+msgid "Recommended Actions"
+msgstr "推荐操作"
+
+#: inc/theme-info/about.php:40
+msgid "Getting Started"
+msgstr "入门"
+
+#: inc/theme-info/about.php:25
+msgid "View Demo"
+msgstr "查看演示"
+
+#: inc/theme-info/about.php:21
+msgid "Theme Details"
+msgstr "主题详情"
+
+#. translators: 1: theme name
+#: inc/theme-info/about.php:16
+msgid "We hope this page will help you to setup %1$s with few clicks. We believe you will find it easy to use and perfect for your website development."
+msgstr "我们希望这个页面能帮助您通过几次点击来设置%1$s。我们相信您会发现它很容易使用，并且非常适合您的网站发展。"
+
+#. translators: theme version
+#: inc/theme-info/about.php:13
+msgid "Welcome to %s - "
+msgstr "欢迎来到%s！"
+
+#: inc/theme-info/about.php:9 inc/theme-info/about.php:10
+msgid "Color newsmagazine setup"
+msgstr "彩色新闻杂志的设置"
+
+#: inc/theme-info/class-about.php:593
+msgid "Upgrade to Pro"
+msgstr "升级至 Pro 版"
+
+#: inc/theme-info/class-about.php:559
+msgid "Deactivate"
+msgstr "停用"
+
+#: inc/theme-info/class-about.php:555
+msgid "Activate"
+msgstr "启用"
+
+#: inc/theme-info/class-about.php:551
+msgid "Install"
+msgstr "安装"
+
+#: inc/theme-info/class-about.php:164
+msgid "Get started with %s"
+msgstr "开始使用 %s"
+
+#: inc/theme-info/class-about.php:164
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr "欢迎！感谢您选择%1$s！为了充分利用我们提供的最佳主题，请确保您访问我们的%2$swelcome页面%3$s。"
+
+#: inc/template-functions.php:565
+msgid "Close"
+msgstr "关闭"
+
+#: inc/customizer/themeoptions-panel.php:155 inc/template-functions.php:559
+msgid "Full view here"
+msgstr "在此查看全文"
+
+#: inc/customizer/themeoptions-panel.php:137 inc/template-functions.php:551
+#: inc/template-functions.php:572
+msgid "Read more"
+msgstr "继续阅读"
+
+#. translators: 1: no of minute required to read he post
+#: inc/template-functions.php:501
+msgid "%s min"
+msgid_plural "%s min"
+msgstr[0] "%s分钟"
+
+#: inc/template-functions.php:48 inc/template-functions.php:75
+msgid "Last published, 5 minutes ago"
+msgstr "最后发表, 5分钟前"
+
+#: inc/template-functions.php:44 inc/template-functions.php:71
+msgid "November 20, 2018"
+msgstr "2018年11月20日"
+
+#: inc/template-functions.php:40 inc/template-functions.php:67
+msgid "Color NewsMagazine, New York"
+msgstr "彩色新闻杂志，纽约"
+
+#. Template Name of the theme
+msgid "Color newsmagazine template"
+msgstr "彩色新闻杂志模板"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有 %1$s 条评论"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "《%1$s》有 1 条评论"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "在此位置似乎没有找到任何内容。或许您可以尝试点击下面的某个链接或进行搜索？"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到该页面。"
+
+#: functions.php:172
+msgid "Add any widget here to show on the blog page. Use HTML widget to show advertisement. It also needs to enable from each block."
+msgstr "在这里添加任何小工具以显示在博客页面上。使用HTML小工具来显示广告。它也需要在每个区块中启用。"
+
+#: functions.php:170
+msgid "First advertisement bar area"
+msgstr "第一广告栏区"
+
+#: functions.php:160
+msgid "Footer bar"
+msgstr "页脚栏"
+
+#: functions.php:153
+msgid "Add CNM: widgets here to appear in body block section"
+msgstr "在这里添加CNM：小工具，以出现在主体区块部分"
+
+#: functions.php:151
+msgid "Body block section bar area"
+msgstr "主体区块部分条形区"
+
+#: functions.php:144 functions.php:162
+msgid "Add any widgets here"
+msgstr "在这里添加任何小工具"
+
+#: functions.php:142 inc/customizer/customizer-color.php:108
+msgid "Sidebar area"
+msgstr "侧边栏区域"
+
+#: functions.php:76
+msgid "Primary"
+msgstr "主要"
+
+#. translators: %s: search query.
+#: search.php:18 single.php:89 single.php:161
+msgid "Search Result For: %s"
+msgstr "搜索结果：%s"
+
+#: template-parts/content-single.php:59
+msgid "Previous post"
+msgstr "上篇文章"
+
+#: template-parts/content-single.php:58
+msgid "Next post"
+msgstr "下篇文章"
+
+#: news-layouts/layouts-20.php:53 template-parts/content-archive-search.php:55
+#: template-parts/content-archive-search.php:121
+msgid "Next"
+msgstr "下一页"
+
+#: news-layouts/layouts-20.php:52 template-parts/content-archive-search.php:54
+#: template-parts/content-archive-search.php:120
+msgid "Previous"
+msgstr "上一页"
+
+#: template-parts/content-page.php:37 template-parts/content-single.php:37
+msgid "Pages :"
+msgstr "页码："
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，未找到与您的搜索条件匹配的内容。请尝试使用其他关键字。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "未找到"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.postmagthemes.com/"
+msgstr "https://www.postmagthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "postmagthemes"
+msgstr "postmagthemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.postmagthemes.com/downloads/color-newsmagazine-free-wordpress-theme/"
+msgstr "https://www.postmagthemes.com/downloads/color-newsmagazine-free-wordpress-theme/"
